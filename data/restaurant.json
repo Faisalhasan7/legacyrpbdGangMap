@@ -1,0 +1,67 @@
+[
+    {
+		"title": "BurgerShot",
+		"notes": "BurgerShot is a chain of fast-food restaurants specializing in hamburgers.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -65.488, "lng": -48.868},
+			{"lat": -66.074, "lng": -47.978},
+			{"lat": -66.340, "lng": -49.307},
+			{"lat": -65.819, "lng": -50.087}
+		]
+	},
+	{
+		"title": "Pizza This!",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -56.779, "lng": -13.061},
+			{"lat": -56.037, "lng": -12.501},
+			{"lat": -56.294, "lng": -11.325},
+			{"lat": -57.037, "lng": -11.776}
+		]
+	},
+	{
+		"title": "Bean Machine",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -48.378, "lng": -33.673},
+			{"lat": -48.560, "lng": -30.718},
+			{"lat": -49.838, "lng": -30.751},
+			{"lat": -49.774, "lng": -31.135},
+			{"lat": -49.767, "lng": -33.563},
+			{"lat": -48.560, "lng": -33.629},
+			{"lat": -48.437, "lng": -33.695}
+		]
+	},
+	{
+		"title": "Sushi Restaurant",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -48.009, "lng": -20.444},
+			{"lat": -46.790, "lng": -20.444},
+			{"lat": -46.707, "lng": -19.071},
+			{"lat": -46.873, "lng": -18.994},
+			{"lat": -47.000, "lng": -18.819},
+			{"lat": -47.142, "lng": -18.665},
+			{"lat": -47.209, "lng": -18.489},
+			{"lat": -48.083, "lng": -18.313},
+			{"lat": -48.103, "lng": -19.487},
+			{"lat": -48.037, "lng": -20.157}
+		]
+	}
+]

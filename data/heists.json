@@ -1,0 +1,121 @@
+[
+	{
+		"title": "Paleto Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 77.001, "lng": -19.252},
+			{"lat": 77.257, "lng": -18.059},
+			{"lat": 77.015, "lng": -17.055},
+			{"lat": 76.758, "lng": -18.198}
+		]
+	},
+	{
+		"title": "Sandy Shores Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 16.073, "lng": 18.341},
+			{"lat": 16.073, "lng": 20.179},
+			{"lat": 14.999, "lng": 20.179},
+			{"lat": 14.999, "lng": 18.341}
+		]
+	},
+	{
+		"title": "Great Ocean Highway FleecaBank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -45.449, "lng": -101.214},
+			{"lat": -45.491, "lng": -100.449},
+			{"lat": -46.043, "lng": -100.531},
+			{"lat": -45.983, "lng": -101.288}
+		]
+	},
+	{
+		"title": "Pink Cage Fleeca Bank",
+		"notes": "(Closed)The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -57.323, "lng": -6.348},
+			{"lat": -58.121, "lng": -6.919},
+			{"lat": -58.329, "lng": -5.711},
+			{"lat": -57.542, "lng": -5.227}
+		]
+	},
+	{
+		"title": "Legion Square Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -67.566, "lng": -10.216},
+			{"lat": -68.093, "lng": -10.743},
+			{"lat": -68.089, "lng": -11.985},
+			{"lat": -68.039, "lng": -12.314},
+			{"lat": -67.377, "lng": -11.622}
+		]
+	},
+	{
+		"title": "Hawick Avenue Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -53.246, "lng": -26.209},
+			{"lat": -53.949, "lng": -22.806},
+			{"lat": -54.757, "lng": -23.103},
+			{"lat": -54.015, "lng": -26.608},
+			{"lat": -53.801, "lng": -26.399},
+			{"lat": -53.514, "lng": -26.245}
+		]
+	},
+	{
+		"title": "Del Perror Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -58.096, "lng": -49.618},
+			{"lat": -58.466, "lng": -49.333},
+			{"lat": -58.580, "lng": -49.410},
+			{"lat": -58.683, "lng": -49.509},
+			{"lat": -59.530, "lng": -49.465},
+			{"lat": -59.668, "lng": -50.168},
+			{"lat": -59.895, "lng": -50.767},
+			{"lat": -58.778, "lng": -52.148}
+		]
+	},
+	{
+		"title": "Vangelico Jewelry Store",
+		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -56.639, "lng": -34.579},
+			{"lat": -56.184, "lng": -33.101},
+			{"lat": -57.782, "lng": -31.405},
+			{"lat": -57.993, "lng": -32.087},
+			{"lat": -56.851, "lng": -33.394}
+		]
+	}
+]

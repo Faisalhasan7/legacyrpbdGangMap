@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Legacy Roleplay Bangladesh Gang Map</title>
+	<link rel="icon" href="icons/legacyrpnp.png"/>
+
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
+	<link rel="stylesheet" href="style.css">
+
+	<script src="js/libs/jquery-min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="js/libs/underscore-min.js"></script>
+	<script src="js/libs/backbone-min.js"></script>
+	<script src="js/libs/handlebars.js"></script>
+	<script src="//maps.googleapis.com/maps/api/js?v=3.exp&key="></script>
+	<script src="js/libs/maplabel-compiled.js"></script>
+	<script src="js/app.js"></script>
+
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+</head>
+<body>
+	<header>
+		<p class="left" style="padding-top: 5px;">
+			<a href="">Legacy Roleplay Bangladesh</a>
+		</p>
+		<ul class="right">
+			<div class="dropdown">
+				<a href="https://www.youtube.com/@freakoutgaming/" target="_blank"><button class="btn btn-primary">Youtube</button></a>
+				<a href="https://www.facebook.com/ghostfreakedout/" target="_blank"><button class="btn btn-primary">Facebook</button></a>
+
+				<a href=" " target="_blank"><button class="btn btn-primary">Gangs Progression Info</button></a>
+				<a href="https://discord.gg/svH33nmdm6" target="_blank"><button class="btn btn-primary">Active Gangs</button></a>
+				<a href="https://docs.google.com/document/d/1FmcA01VSUZgj6hZhGgKH-nAACjj9bNYNS43a52zAJv0" target="_blank"><button class="btn btn-primary">Gang Rules</button></a>
+
+				<button class="btn btn-primary" id="toggleruler" onclick="toggleRuler();$(this).css('display', 'none');">Add Distance Ruler</button>
+				<button class="btn btn-primary" id="createzone" onclick="printArray()">Add New Region</button>
+				
+				<button class="btn btn-secondary dropdown-toggle" type="button" id="ddmenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					Select Map Type
+				</button>
+				<div class="dropdown-menu" aria-labelledby="ddmenu">
+					<a href="#" id="Atlas" class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas'); $(this).addClass('active');">Atlas</a>
+					<a href="#" id="Satellite" class="dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite'); $(this).addClass('active');">Satellite</a>
+					<a href="#" id="Road" class="dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road'); $(this).addClass('active');">Road</a>
+				</div>
+			</div>
+
+		</ul>
+	</header>
+
+	<div id="map" style="background:rgb(43, 164, 210);"></div>
+
+	
+	<script type="x/template" id="sectionTemplate">
+		{{#each sections as | section |}}
+			<section class="type">
+				<h3>{{name}}</h3>
+				<ul>
+					{{#each categories}}
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}" data-section="{{section.name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-section="{{section.name}}" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
+					{{/each}}					
+					{{#ifEquals name "General"}}
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
+					{{/ifEquals}}
+
+				</ul>
+			</section>
+		{{/each}}
+
+		
+	</script>
+
+	<script type="x/template" id="categoryDetailsTemplate">
+		<section class="type">
+			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{category}}</h3>
+			<ul class="listview">
+				{{#with this as | root |}}
+				{{#each locations}}
+					<li data-section="{{root.section}}" data-name="{{root.category}}"><div style="height:20px;width:20px;background-color:#{{fillcolor}};border: 3px solid #{{strokecolor}}; display:inline-block;margin-right:10px;"></div><label>{{title}}</label></li>
+				{{/each}}
+				{{/with}}
+			</ul>
+		</section>
+	</script>
+
+	<script type="x/template" id="markerPopupTemplate2">
+		<div id="info-window" style="max-width:420px;">
+			<div class="scrollable">
+				<span class="header">
+					<h3>{{title}}</h3>
+				</span>
+				<div id="info-body">
+					{{#if notes}}
+						<br>
+						<p class="notes">{{notes}}</p>
+					{{/if}}
+	
+					{{#if media}}
+						<br>
+						<h4>Preview</h4>
+						<div class="image-preview">
+							<img src="{{media.url}}" alt="{{media.alt}}" style="max-width:100%; border-radius: 8px;">
+						</div>
+					{{/if}}
+	
+					{{#if wiki_link}}
+						<hr>
+						<a target="_blank" href="{{wiki_link}}">Check out {{title}} Video</a>
+					{{/if}}
+				</div>
+			</div>
+		</div>
+	</script>
+	
+
+	<div id="typeDetails" class="types"></div>
+
+	<div id="types" class="types"></div>
+
+	<!-- Preloader Animation -->
+	<div id="preloader">
+        <div class="loader_name">
+            <span data-text-preloader="L" class="animated-letters">L</span>
+            <span data-text-preloader="E" class="animated-letters">E</span>
+            <span data-text-preloader="G" class="animated-letters">G</span>
+            <span data-text-preloader="A" class="animated-letters">A</span>
+            <span data-text-preloader="C" class="animated-letters">C</span>
+            <span data-text-preloader="Y" class="animated-letters">Y</span>
+            <span data-text-preloader="R" class="animated-letters">R</span>
+            <span data-text-preloader="O" class="animated-letters">O</span>
+            <span data-text-preloader="L" class="animated-letters">L</span>
+            <span data-text-preloader="E" class="animated-letters">E</span>
+            <span data-text-preloader="P" class="animated-letters">P</span>
+            <span data-text-preloader="L" class="animated-letters">L</span>
+            <span data-text-preloader="A" class="animated-letters">A</span>
+            <span data-text-preloader="Y" class="animated-letters">Y</span>
+            <span data-text-preloader="B" class="animated-letters">B</span>
+            <span data-text-preloader="A" class="animated-letters">A</span>
+            <span data-text-preloader="N" class="animated-letters">N</span>
+            <span data-text-preloader="G" class="animated-letters">G</span>
+            <span data-text-preloader="L" class="animated-letters">L</span>
+            <span data-text-preloader="A" class="animated-letters">A</span> 
+            <span data-text-preloader="D" class="animated-letters">D</span>
+            <span data-text-preloader="E" class="animated-letters">E</span>
+            <span data-text-preloader="S" class="animated-letters">S</span>
+            <span data-text-preloader="H" class="animated-letters">H</span>
+        </div>
+    </div>
+    <!-- Loader Animation -->
+</body>
+</html>

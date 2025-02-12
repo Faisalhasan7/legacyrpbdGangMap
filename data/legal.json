@@ -1,0 +1,238 @@
+[
+	{
+		"title": "Del Perror Beach PD",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -67.413, "lng": -63.242},
+			{"lat": -67.810, "lng": -61.935},
+			{"lat": -67.434, "lng": -61.012},
+			{"lat": -67.000, "lng": -62.331}
+		]
+	},
+	{
+		"title": "Davis PD",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -72.817, "lng": -4.484},
+			{"lat": -73.072, "lng": -5.121},
+			{"lat": -73.313, "lng": -4.099},
+			{"lat": -73.049, "lng": -3.275}
+		]
+	},
+	{
+		"title": "San Andreas Highway Patrol Department",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -37.516, "lng": 28.030},
+			{"lat": -37.106, "lng": 30.096},
+			{"lat": -35.780, "lng": 31.030},
+			{"lat": -34.893, "lng": 30.074},
+			{"lat": -35.789, "lng": 29.481}
+		]
+	},
+	{
+		"title": "N.O.O.S.E PD/FIB Department",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -56.458, "lng": 55.889},
+			{"lat": -57.405, "lng": 59.932},
+			{"lat": -59.697, "lng": 59.920},
+			{"lat": -60.301, "lng": 60.022},
+			{"lat": -60.638, "lng": 60.167},
+			{"lat": -61.082, "lng": 60.497},
+			{"lat": -61.204, "lng": 60.585},
+			{"lat": -61.336, "lng": 60.629},
+			{"lat": -61.436, "lng": 60.596},
+			{"lat": -61.562, "lng": 60.508},
+			{"lat": -61.755, "lng": 60.343},
+			{"lat": -61.838, "lng": 60.244},
+			{"lat": -62.013, "lng": 59.904},
+			{"lat": -62.086, "lng": 59.629},
+			{"lat": -62.188, "lng": 58.849},
+			{"lat": -62.070, "lng": 58.794},
+			{"lat": -61.786, "lng": 58.596},
+			{"lat": -61.567, "lng": 58.254},
+			{"lat": -60.508, "lng": 55.848},
+			{"lat": -60.473, "lng": 55.738},
+			{"lat": -60.037, "lng": 55.079},
+			{"lat": -59.723, "lng": 54.402},
+			{"lat": -59.534, "lng": 54.127},
+			{"lat": -59.417, "lng": 54.072},
+			{"lat": -59.209, "lng": 54.020},
+			{"lat": -58.926, "lng": 54.055},
+			{"lat": -57.572, "lng": 55.045}
+		]
+	},
+	{
+		"title": "Mission Row PD",
+		"notes": "The Los Santos Police Department, along with the Sheriff's Office, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -66.807, "lng": -2.858},
+			{"lat": -66.789, "lng": -0.738},
+			{"lat": -67.452, "lng": -0.727},
+			{"lat": -67.549, "lng": -2.924}
+		]
+	},
+	{
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 73.978, "lng": -29.654},
+			{"lat": 74.135, "lng": -27.689},
+			{"lat": 73.795, "lng": -27.251},
+			{"lat": 73.678, "lng": -27.119},
+			{"lat": 73.511, "lng": -27.129},
+			{"lat": 73.426, "lng": -27.196},
+			{"lat": 73.237, "lng": -27.404},
+			{"lat": 72.972, "lng": -28.085},
+			{"lat": 73.426, "lng": -29.919}
+		]
+	},
+	{
+		"title": "Country Sheriff Office",
+		"notes": "The Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.578, "lng": 38.092},
+			{"lat": 39.789, "lng": 38.850},
+			{"lat": 40.277, "lng": 39.938},
+			{"lat": 41.101, "lng": 39.334}
+		]
+	},
+	{
+		"title": "Police Department HEADQUARTERS",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -54.863, "lng": -34.077},
+			{"lat": -54.132, "lng": -32.097},
+			{"lat": -54.599, "lng": -30.680},
+			{"lat": -55.253, "lng": -30.034},
+			{"lat": -55.973, "lng": -32.924}
+		]
+	},
+	{
+		"title": "Bolingbroke Penitentiary",
+		"notes": "DOC(Department OF Correction) Office & Main Prison",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 17.269, "lng": 32.660},
+			{"lat": 17.500, "lng": 36.483},
+			{"lat": 17.269, "lng": 37.120},
+			{"lat": 15.752, "lng": 38.966},
+			{"lat": 15.244, "lng": 39.208},
+			{"lat": 9.949, "lng": 39.150},
+			{"lat": 8.952, "lng": 38.798},
+			{"lat": 7.386, "lng": 37.634},
+			{"lat": 6.536, "lng": 36.403},
+			{"lat": 5.926, "lng": 33.274},
+			{"lat": 6.123, "lng": 32.615},
+			{"lat": 8.057, "lng": 29.421},
+			{"lat": 8.383, "lng": 29.223},
+			{"lat": 12.037, "lng": 28.960},
+			{"lat": 14.560, "lng": 29.842},
+			{"lat": 17.074, "lng": 32.260}
+		]
+	},
+	{
+		"title": "The Courthouse",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -58.729, "lng": -9.276},
+			{"lat": -59.300, "lng": -6.430},
+			{"lat": -59.416, "lng": -6.279},
+			{"lat": -59.561, "lng": -6.241},
+			{"lat": -59.794, "lng": -6.197},
+			{"lat": -59.943, "lng": -6.219},
+			{"lat": -60.429, "lng": -6.603},
+			{"lat": -60.462, "lng": -10.470}
+		]
+	},
+	{
+		"title": "Impound Lot (1)",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF8C00",
+		"fillcolor": "Ffa500",
+		"latlngarray": [
+			{"lat": -73.032, "lng": -3.218},
+			{"lat": -73.309, "lng": -4.064},
+			{"lat": -73.658, "lng": -2.976},
+			{"lat": -73.328, "lng": -2.009}
+		]
+	},
+	{
+		"title": "Impound Lot (2)",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF8C00",
+		"fillcolor": "Ffa500",
+		"latlngarray": [
+			{"lat": 42.322, "lng": 31.283},
+			{"lat": 41.710, "lng": 31.975},
+			{"lat": 42.452, "lng": 33.271},
+			{"lat": 43.105, "lng": 32.458}
+		]
+	},
+	{
+		"title": "Impound Lot (3)",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF8C00",
+		"fillcolor": "Ffa500",
+		"latlngarray": [
+			{"lat": 74.327, "lng": -23.744},
+			{"lat": 74.554, "lng": -24.524},
+			{"lat": 74.847, "lng": -23.206},
+			{"lat": 74.673, "lng": -22.393}
+		]
+	},
+	{
+		"title": "Impound Lot (4)",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF8C00",
+		"fillcolor": "Ffa500",
+		"latlngarray": [
+			{"lat": -68.821, "lng": -22.400},
+			{"lat": -69.097, "lng": -22.378},
+			{"lat": -69.152, "lng": -19.148},
+			{"lat": -69.077, "lng": -18.335},
+			{"lat": -68.821, "lng": -18.368}
+		]
+	}
+]

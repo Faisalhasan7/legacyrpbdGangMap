@@ -1,0 +1,202 @@
+[
+
+	{
+		"title": "The Lost MC (TLMC)",
+		"notes": "Bike on my Blood",
+		"wiki_link": "https://legacyrpbd.com/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "666362",
+		"latlngarray": [
+			{"lat": 37.667, "lng": -11.849},
+			{"lat": 37.937, "lng": -11.245},
+			{"lat": 38.343, "lng": -10.673},
+			{"lat": 38.687, "lng": -10.322},
+			{"lat": 39.131, "lng": -10.014},
+			{"lat": 39.607, "lng": -9.871},
+			{"lat": 39.885, "lng": -10.036},
+			{"lat": 40.423, "lng": -9.937},
+			{"lat": 40.915, "lng": -10.058},
+			{"lat": 41.229, "lng": -10.311},
+			{"lat": 41.830, "lng": -10.487},
+			{"lat": 42.221, "lng": -10.651},
+			{"lat": 42.457, "lng": -11.069},
+			{"lat": 42.530, "lng": -11.596},
+			{"lat": 42.570, "lng": -12.003},
+			{"lat": 42.885, "lng": -12.684},
+			{"lat": 42.869, "lng": -13.068},
+			{"lat": 42.885, "lng": -13.497},
+			{"lat": 42.627, "lng": -14.316},
+			{"lat": 42.278, "lng": -14.755},
+			{"lat": 42.221, "lng": -14.865},
+			{"lat": 41.846, "lng": -15.832},
+			{"lat": 41.468, "lng": -16.216},
+			{"lat": 41.254, "lng": -16.249},
+			{"lat": 40.873, "lng": -16.183},
+			{"lat": 40.673, "lng": -16.096},
+			{"lat": 40.389, "lng": -16.008},
+			{"lat": 40.071, "lng": -15.865},
+			{"lat": 39.717, "lng": -15.722},
+			{"lat": 39.454, "lng": -15.634},
+			{"lat": 39.165, "lng": -15.469},
+			{"lat": 38.960, "lng": -15.327},
+			{"lat": 38.729, "lng": -15.096},
+			{"lat": 38.489, "lng": -14.733},
+			{"lat": 38.394, "lng": -14.514},
+			{"lat": 38.317, "lng": -14.041},
+			{"lat": 38.179, "lng": -13.283},
+			{"lat": 38.092, "lng": -12.734},
+			{"lat": 38.066, "lng": -12.481},
+			{"lat": 37.919, "lng": -12.173}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/WbwWQmKL/2-1.webp",
+			"alt": "The Lost MC"
+		}	
+	},
+	
+	{
+		"title": "NSR - Hood",
+		"notes": "Night Shade Rivals",
+		"wiki_link": "https://legacyrpbd.com/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -73.047, "lng": -48.516},
+			{"lat": -72.737, "lng": -46.933},
+			{"lat": -73.308, "lng": -45.571},
+			{"lat": -73.361, "lng": -45.373},
+			{"lat": -73.431, "lng": -45.176},
+			{"lat": -73.481, "lng": -44.802},
+			{"lat": -73.692, "lng": -45.670},
+			{"lat": -73.857, "lng": -46.428},
+			{"lat": -73.710, "lng": -46.901},
+			{"lat": -73.540, "lng": -47.252},
+			{"lat": -73.393, "lng": -47.637},
+			{"lat": -73.216, "lng": -48.054},
+			{"lat": -73.060, "lng": -48.450}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/tg9MGhmV/NSR.png",
+			"alt": "Night Shade Rivals"
+		}
+	},
+	{
+		"title": "OV - Hood",
+		"notes": "Only Violence",
+		"wiki_link": "https://legacyrpbd.com/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "808000",
+		"latlngarray": [
+			{"lat": -74.683, "lng": -8.130},
+			{"lat": -74.311, "lng": -7.207},
+			{"lat": -74.239, "lng": -6.801},
+			{"lat": -73.947, "lng": -5.988},
+			{"lat": -73.764, "lng": -6.779},
+			{"lat": -73.631, "lng": -7.372},
+			{"lat": -73.457, "lng": -8.031},
+			{"lat": -73.341, "lng": -8.492},
+			{"lat": -73.240, "lng": -8.932},
+			{"lat": -73.312, "lng": -9.185},
+			{"lat": -73.469, "lng": -9.624},
+			{"lat": -73.782, "lng": -10.690},
+			{"lat": -73.999, "lng": -11.228},
+			{"lat": -74.296, "lng": -10.020},
+			{"lat": -74.672, "lng": -8.229}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/Y0fRBkdf/Gangphoto.webp",
+			"alt": "Only Violence"
+		}
+	},
+	{
+		"title": "CC - Hood",
+		"notes": "The Cali Cartles",
+		"wiki_link": "https://legacyrpbd.com/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "808000",
+		"latlngarray": [
+			{"lat": -60.946, "lng": 23.883},
+			{"lat": -60.967, "lng": 24.355},
+			{"lat": -61.020, "lng": 24.850},
+			{"lat": -61.159, "lng": 25.333},
+			{"lat": -61.280, "lng": 25.619},
+			{"lat": -61.480, "lng": 25.849},
+			{"lat": -61.752, "lng": 26.047},
+			{"lat": -62.088, "lng": 26.168},
+			{"lat": -62.364, "lng": 26.091},
+			{"lat": -62.689, "lng": 25.838},
+			{"lat": -62.850, "lng": 25.728},
+			{"lat": -62.965, "lng": 25.410},
+			{"lat": -63.064, "lng": 25.157},
+			{"lat": -63.064, "lng": 24.784},
+			{"lat": -63.010, "lng": 24.256},
+			{"lat": -62.970, "lng": 23.674},
+			{"lat": -62.835, "lng": 23.070},
+			{"lat": -62.709, "lng": 22.630},
+			{"lat": -62.446, "lng": 22.246},
+			{"lat": -62.160, "lng": 22.037},
+			{"lat": -61.710, "lng": 21.938},
+			{"lat": -61.286, "lng": 22.070},
+			{"lat": -61.010, "lng": 22.268},
+			{"lat": -60.753, "lng": 22.488},
+			{"lat": -60.673, "lng": 22.707},
+			{"lat": -60.705, "lng": 22.982},
+			{"lat": -60.732, "lng": 23.235},
+			{"lat": -60.818, "lng": 23.421},
+			{"lat": -60.914, "lng": 23.663},
+			{"lat": -60.925, "lng": 23.828}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/PJqWBChP/Gang-Photo-1.png",
+			"alt": "The Cali Cartles"
+		}
+
+	},
+
+	{
+		"title": "Vagos - Hood",
+		"notes": "Los Santos Vagos ",
+		"wiki_link": "https://legacyrpbd.com/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "FFFF00",
+		"latlngarray": [
+			{"lat": -76.604, "lng": -7.722},
+			{"lat": -76.186, "lng": -6.162},
+			{"lat": -76.109, "lng": -5.910},
+			{"lat": -75.735, "lng": -4.591},
+			{"lat": -76.186, "lng": -2.823},
+			{"lat": -76.235, "lng": -2.559},
+			{"lat": -76.543, "lng": -1.306},
+			{"lat": -76.563, "lng": -1.471},
+			{"lat": -76.612, "lng": -1.713},
+			{"lat": -76.781, "lng": -2.284},
+			{"lat": -76.866, "lng": -2.581},
+			{"lat": -77.035, "lng": -3.240},
+			{"lat": -77.092, "lng": -3.581},
+			{"lat": -77.160, "lng": -3.965},
+			{"lat": -77.175, "lng": -4.438},
+			{"lat": -77.155, "lng": -4.965},
+			{"lat": -77.087, "lng": -5.492},
+			{"lat": -76.998, "lng": -5.899},
+			{"lat": -76.826, "lng": -6.734},
+			{"lat": -76.685, "lng": -7.437},
+			{"lat": -76.617, "lng": -7.744}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/DfqBXd7J/me-1.jpg",
+			"alt": "Los Santo Vagos"
+		}
+
+	}
+
+]

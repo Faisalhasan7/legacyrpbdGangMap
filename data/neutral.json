@@ -1,0 +1,86 @@
+[	
+	{
+		"title": "Midnight Tuner Shop",
+		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8B8000",
+		"fillcolor": "FFFF00",
+		"latlngarray": [
+			{"lat": -80.906, "lng": -11.152},
+			{"lat": -80.918, "lng": -10.163},
+			{"lat": -81.148, "lng": -10.185},
+			{"lat": -81.153, "lng": -11.163},
+			{"lat": -80.908, "lng": -11.163}
+		]
+	},
+	{
+		"title": "Premium Deluxe Motorsport",
+		"notes": "Premium Deluxe Motorsport (PDM) where you can buy vehicles",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8B8000",
+		"fillcolor": "FFFF00",
+		"latlngarray": [
+			{"lat": -67.890, "lng": -16.627},
+			{"lat": -68.087, "lng": -14.998},
+			{"lat": -68.557, "lng": -15.470},
+			{"lat": -68.594, "lng": -17.294}
+		]
+	},
+	{
+		"title": "Tool Store (1)",
+		"notes": "A place to buy Basic Granding Tools.",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -74.125, "lng": -16.343},
+			{"lat": -73.782, "lng": -13.497},
+			{"lat": -74.464, "lng": -10.509},
+			{"lat": -75.056, "lng": -12.377},
+			{"lat": -74.552, "lng": -14.706},
+			{"lat": -74.411, "lng": -15.090}
+		]
+	},
+	{
+		"title": "Tool Store (2)",
+		"notes": "A place to buy Basic Granding Tools.",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 37.736, "lng": 61.982},
+			{"lat": 36.165, "lng": 66.629},
+			{"lat": 33.491, "lng": 65.208},
+			{"lat": 35.084, "lng": 60.565}
+		]
+	},
+	{
+		"title": "Tool Store (3)",
+		"notes": "A place to buy Basic Granding Tools.",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 77.082, "lng": -16.188},
+			{"lat": 76.933, "lng": -15.397},
+			{"lat": 77.194, "lng": -14.166},
+			{"lat": 77.354, "lng": -14.979}
+		]
+	},
+	{
+		"title": "Green Wonderland",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -65.317, "lng": -4.403},
+			{"lat": -64.482, "lng": -4.392},
+			{"lat": -64.478, "lng": -3.480},
+			{"lat": -65.312, "lng": -3.480}
+		]
+	}
+]

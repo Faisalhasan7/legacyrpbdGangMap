@@ -1,0 +1,98 @@
+[
+	
+	{
+		"title": "Grandma's",
+		"notes": "(3.0 Only) Where you go to pick up your gang after a shootout.",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 63.316, "lng": 56.517},
+			{"lat": 63.175, "lng": 56.776},
+			{"lat": 63.051, "lng": 56.918},
+			{"lat": 62.976, "lng": 56.907},
+			{"lat": 62.801, "lng": 56.787},
+			{"lat": 62.725, "lng": 56.721},
+			{"lat": 62.614, "lng": 56.501},
+			{"lat": 62.319, "lng": 55.864},
+			{"lat": 62.197, "lng": 55.556},
+			{"lat": 62.523, "lng": 54.864}
+		]
+	},
+	
+	{
+		"title": "Mount Zonah Medical Center",
+		"notes": "Mount Zonah Medical Center is the main hospital in Los Santos. Mount Zonah is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": -58.856, "lng": -28.903},
+			{"lat": -58.254, "lng": -28.771},
+			{"lat": -57.630, "lng": -29.332},
+			{"lat": -57.975, "lng": -30.793},
+			{"lat": -58.605, "lng": -30.156},
+			{"lat": -58.804, "lng": -30.134}
+		]
+	},
+	{
+		"title": "The Bay Care Center",
+		"notes": "The Bay Care Center is a Paleto Bay hospital in Los Santos.",
+		"wiki_ling": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": 75.836, "lng": -22.058},
+			{"lat": 76.063, "lng": -21.182},
+			{"lat": 76.291, "lng": -22.412},
+			{"lat": 76.090, "lng": -23.268}
+
+		]
+	},
+	{
+		"title": "Sandy Shores Medical Center",
+		"notes": "Sandy Shores Medical Center is a Sandy Shores hospital in Los Santos.",
+		"wiki_ling": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": 40.117, "lng": 37.049},
+			{"lat": 39.272, "lng": 37.675},
+			{"lat": 39.789, "lng": 38.850},
+			{"lat": 40.578, "lng": 38.092}		
+		]
+	},
+	{
+		"title": "Sandy Shores Fire Department",
+		"notes": "Sandy Shores Fire Department is a Sandy Shores Fire Fighter of Los Santos.",
+		"wiki_ling": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 38.319, "lng": 32.947},
+			{"lat": 38.954, "lng": 34.435},
+			{"lat": 38.094, "lng": 35.138},
+			{"lat": 37.417, "lng": 33.600}		
+		]
+	},
+	{
+		"title": "Fire Department HEADQUARTERS",
+		"notes": "",
+		"wiki_ling": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -54.254, "lng": -34.712},
+			{"lat": -54.100, "lng": -34.163},
+			{"lat": -54.042, "lng": -33.394},
+			{"lat": -54.054, "lng": -32.767},
+			{"lat": -54.132, "lng": -32.097},
+			{"lat": -54.863, "lng": -34.077}		
+		]
+	}
+]
