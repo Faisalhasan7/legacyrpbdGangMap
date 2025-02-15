@@ -1,7 +1,7 @@
 [
 
 	{
-		"title": "The Lost MC - Hood",
+		"title": "The Lost MC (TLMC)",
 		"notes": "Bike on my Blood",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
@@ -84,43 +84,62 @@
 			"alt": "Night Shade Rivals"
 		}
 	},
+	
 	{
-		"title": "OV - Hood",
-		"notes": "Only Violence",
+		"title": "WC - Hood",
+		"notes": "White Cartel",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "808000",
+		"fillcolor": "FAF9F6",
 		"latlngarray": [
-			{"lat": -74.683, "lng": -8.130},
-			{"lat": -74.311, "lng": -7.207},
-			{"lat": -74.239, "lng": -6.801},
-			{"lat": -73.947, "lng": -5.988},
-			{"lat": -73.764, "lng": -6.779},
-			{"lat": -73.631, "lng": -7.372},
-			{"lat": -73.457, "lng": -8.031},
-			{"lat": -73.341, "lng": -8.492},
-			{"lat": -73.240, "lng": -8.932},
-			{"lat": -73.312, "lng": -9.185},
-			{"lat": -73.469, "lng": -9.624},
-			{"lat": -73.782, "lng": -10.690},
-			{"lat": -73.999, "lng": -11.228},
-			{"lat": -74.296, "lng": -10.020},
-			{"lat": -74.672, "lng": -8.229}
+			{"lat": -52.880, "lng": -56.613},
+			{"lat": -53.328, "lng": -56.536},
+			{"lat": -53.642, "lng": -56.547},
+			{"lat": -53.895, "lng": -56.668},
+			{"lat": -54.108, "lng": -56.866},
+			{"lat": -54.333, "lng": -57.074},
+			{"lat": -54.461, "lng": -57.371},
+			{"lat": -54.614, "lng": -57.734},
+			{"lat": -54.855, "lng": -58.173},
+			{"lat": -55.050, "lng": -58.667},
+			{"lat": -55.251, "lng": -59.052},
+			{"lat": -55.495, "lng": -59.612},
+			{"lat": -55.762, "lng": -60.129},
+			{"lat": -55.320, "lng": -60.733},
+			{"lat": -54.893, "lng": -61.161},
+			{"lat": -54.448, "lng": -61.645},
+			{"lat": -53.986, "lng": -62.073},
+			{"lat": -53.733, "lng": -62.414},
+			{"lat": -53.557, "lng": -62.611},
+			{"lat": -53.315, "lng": -62.139},
+			{"lat": -53.197, "lng": -61.820},
+			{"lat": -53.190, "lng": -61.271},
+			{"lat": -53.190, "lng": -60.755},
+			{"lat": -53.256, "lng": -60.282},
+			{"lat": -53.295, "lng": -59.931},
+			{"lat": -53.321, "lng": -59.392},
+			{"lat": -53.289, "lng": -58.953},
+			{"lat": -53.157, "lng": -58.612},
+			{"lat": -52.966, "lng": -58.151},
+			{"lat": -52.933, "lng": -57.756},
+			{"lat": -52.906, "lng": -57.305},
+			{"lat": -52.899, "lng": -56.932}
 		],
 		"media": {
 			"type": "image",
 			"url": "https://i.postimg.cc/Y0fRBkdf/Gangphoto.webp",
-			"alt": "Only Violence"
+			"alt": "White Cartel"
 		}
 	},
+
 	{
 		"title": "CC - Hood",
 		"notes": "The Cali Cartles",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "808000",
+		"fillcolor": "A020F0",
 		"latlngarray": [
 			{"lat": -60.946, "lng": 23.883},
 			{"lat": -60.967, "lng": 24.355},
@@ -158,7 +177,6 @@
 			"url": "https://i.postimg.cc/PJqWBChP/Gang-Photo-1.png",
 			"alt": "The Cali Cartles"
 		}
-
 	},
 
 	{
@@ -197,6 +215,34 @@
 			"alt": "Los Santo Vagos"
 		}
 
+	},
+	{
+		"title": "MWC - Hood",
+		"notes": "Merry Weather Corp ",
+		"wiki_link": "https://legacyrpbd.com/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -56.371, "lng": -60.191},
+			{"lat": -57.326, "lng": -58.642},
+			{"lat": -58.419, "lng": -60.202},
+			{"lat": -57.804, "lng": -61.455},
+			{"lat": -57.474, "lng": -61.345},
+			{"lat": -57.190, "lng": -61.268},
+			{"lat": -56.915, "lng": -61.103},
+			{"lat": -56.686, "lng": -60.839},
+			{"lat": -56.541, "lng": -60.587},
+			{"lat": -56.426, "lng": -60.378}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/k5kcfrGQ/MWC.png",
+			"alt": "Merry Weather Corp"
+		}
 	}
 
 ]
+
+
+	
