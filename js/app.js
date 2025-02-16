@@ -758,5 +758,5 @@ Label.prototype.draw = function() {
 window.addEventListener("load", function () {
 	setTimeout(function() {
 		document.getElementById("preloader").style.display = "none";
-	}, 3500);
+	}, 1500);
 });
