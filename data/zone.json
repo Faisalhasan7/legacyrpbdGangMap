@@ -1,5 +1,16 @@
+// Colors 
+// Unclaimed 808080
+// NSR 0000FF
+// TLMC 36454F
+// Vagos FFFF00
+// Cali  7F00FF
+// White C FFFFFF
+// MWC 
+
+
+
 [
-    {
+    {  // 1
 		"title": "Elysian Island",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -22,9 +33,9 @@
 			{"lat": -80.474, "lng": -28.355}
 		]
 	},
-    {
+    {	// 2
 		"title": "Terminal",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
@@ -35,12 +46,12 @@
 			{"lat": -83.149, "lng": 5.081}
 		]
 	},
-    {
+    {	// 3
 		"title": "Cypress Flats",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FFFF00",
+		"fillcolor": "FFFF00",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -52,7 +63,7 @@
 			{"lat": -76.274, "lng": 3.019}
 		]
 	},
-    {
+    { // 4
 		"title": "El Burro Heights",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -75,12 +86,12 @@
 			{"lat": -75.432, "lng": 17.418}
 		]
 	},
-    {
+    {	// 5
 		"title": "Rancho",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -98,7 +109,7 @@
 			{"lat": -73.172, "lng": -4.542}
 		]
 	},
-    {
+    {	// 6
 		"title": "Davis",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -119,12 +130,12 @@
 			{"lat": -73.862, "lng": -12.272}
 		]
 	},
-    {
+    {	// 7
 		"title": "Strawberry",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "36454F",
+		"fillcolor": "36454F",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -136,12 +147,12 @@
 			{"lat": -71.549, "lng": -26.659}
 		]
 	},
-    {
+    {	// 8
 		"title": "Pillbox Hill",
-		"notes": "Gang: Only Violence (OV)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "808000",
-		"fillcolor": "808000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -63.921, "lng": -25.245},
 			{"lat": -63.921, "lng": -22.826},
@@ -157,9 +168,9 @@
 			{"lat": -68.915, "lng": -25.245}
 		]
 	},
-    {
+    {	// 9
 		"title": "Textile City",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
@@ -170,7 +181,7 @@
 			{"lat": -65.788, "lng": -6.646}
 		]
 	},
-    {
+    {	// 10
 		"title": "Murrieta Heights",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
@@ -187,12 +198,12 @@
 			{"lat": -67.321, "lng": 10.917}
 		]
 	},
-    {
+    {	// 11
 		"title": "Mirror Park",
-		"notes": "Gang: The Cali Cartels",
+		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -200,7 +211,7 @@
 			{"lat": -65.079, "lng": 10.272}
 		]
 	},
-    {
+    {	// 12
 		"title": "East Vinewood",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -219,12 +230,12 @@
 			{"lat": -56.469, "lng": 5.168}
 		]
 	},
-    {
+    {	// 13
 		"title": "Downtown Vinewood",
-		"notes": "Gang: Night Shade Rivals (NSR)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -232,12 +243,12 @@
 			{"lat": -53.373, "lng": -13.503}
 		]
 	},
-    {
+    {	// 14
 		"title": "West Vinewood",
-		"notes": "Gang: Only Violence (OV)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "808000",
-		"fillcolor": "808000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -247,12 +258,12 @@
 			{"lat": -52.775, "lng": -36.553}
 		]
 	},
-    {
+    {	// 15
 		"title": "Del Perro",
-		"notes": "Gang: Only Violence (OV)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "808000",
-		"fillcolor": "808000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -59.524, "lng": -69.248},
 			{"lat": -59.524, "lng": -52.526},
@@ -276,7 +287,7 @@
 			{"lat": -63.248, "lng": -69.248}
 		]
 	},
-    {
+    {	// 16
 		"title": "Vespucci Canals",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -305,7 +316,7 @@
 			{"lat": -65.409, "lng": -48.911}
 		]
 	},
-    {
+    {	// 17
 		"title": "Vespucci Beach",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -364,7 +375,7 @@
 			{"lat": -68.006, "lng": -55.611}
 		]
 	},
-    {
+    {	// 18
 		"title": "Vinewood Hills",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -405,12 +416,12 @@
 			{"lat": -40.431, "lng": -57.704}
 		]
 	},
-    {
+    {	// 19
 		"title": "Tongva Hills",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 4.621, "lng": -82.503},
 			{"lat": 4.621, "lng": -60.391},
@@ -424,12 +435,12 @@
 			{"lat": 1.475, "lng": -82.503}
 		]
 	},
-    {
+    {	// 20
 		"title": "Harmony",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
 			{"lat": 17.381, "lng": 5.082},
@@ -437,7 +448,7 @@
 			{"lat": 9.774, "lng": -10.277}
 		]
 	},
-    {
+    {	// 21
 		"title": "Sandy Shores",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
@@ -458,12 +469,12 @@
 			{"lat": 43.085, "lng": 55.025}
 		]
 	},
-    {
+    {	// 22
 		"title": "Stab City",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 43.567, "lng": -17.457},
 			{"lat": 43.567, "lng": -7.794},
@@ -475,12 +486,12 @@
 			{"lat": 38.699, "lng": -17.457}
 		]
 	},
-    {
+    {	// 23
 		"title": "Grapeseed",
-		"notes": "Gang: Night Shade Rivals (NSR)",
+		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -495,38 +506,40 @@
 			{"lat": 56.536, "lng": 55.025},
 			{"lat": 56.536, "lng": 31.612}
 		]
-	},
-    {
-		"title": "Chiliad Mountain State Wilderness",
-		"notes": "Gang: Unclaimed",
-		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": 67.153, "lng": -55.521},
-			{"lat": 67.153, "lng": -47.789},
-			{"lat": 67.432, "lng": -47.789},
-			{"lat": 67.432, "lng": -42.879},
-			{"lat": 66.288, "lng": -42.879},
-			{"lat": 66.288, "lng": -23.614},
-			{"lat": 56.639, "lng": -23.614},
-			{"lat": 56.639, "lng": -68.285},
-			{"lat": 57.887, "lng": -68.285},
-			{"lat": 57.887, "lng": -65.343},
-			{"lat": 58.756, "lng": -65.343},
-			{"lat": 58.756, "lng": -66.735},
-			{"lat": 59.277, "lng": -66.735},
-			{"lat": 59.277, "lng": -70.564},
-			{"lat": 64.636, "lng": -70.564},
-			{"lat": 64.636, "lng": -55.521}
-		]
-	},
-    {
+	}
+	,
+    // {	
+	// 	"title": "Chiliad Mountain State Wilderness",
+	// 	"notes": "Gang: Unclaimed",
+	// 	"order": 0,
+	// 	"strokecolor": "808080",
+	// 	"fillcolor": "808080",
+	// 	"latlngarray": [
+	// 		{"lat": 67.153, "lng": -55.521},
+	// 		{"lat": 67.153, "lng": -47.789},
+	// 		{"lat": 67.432, "lng": -47.789},
+	// 		{"lat": 67.432, "lng": -42.879},
+	// 		{"lat": 66.288, "lng": -42.879},
+	// 		{"lat": 66.288, "lng": -23.614},
+	// 		{"lat": 56.639, "lng": -23.614},
+	// 		{"lat": 56.639, "lng": -68.285},
+	// 		{"lat": 57.887, "lng": -68.285},
+	// 		{"lat": 57.887, "lng": -65.343},
+	// 		{"lat": 58.756, "lng": -65.343},
+	// 		{"lat": 58.756, "lng": -66.735},
+	// 		{"lat": 59.277, "lng": -66.735},
+	// 		{"lat": 59.277, "lng": -70.564},
+	// 		{"lat": 64.636, "lng": -70.564},
+	// 		{"lat": 64.636, "lng": -55.521}
+	// 	]
+	// }
+	,
+    { 	// 24
 		"title": "Paleto Forest",
-		"notes": "Gang: The Cali Cartels",
+		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
 			{"lat": 75.891, "lng": -39.607},
@@ -546,12 +559,12 @@
 			{"lat": 74.785, "lng": -44.515}
 		]
 	},
-    {
+    {	// 25
 		"title": "Paleto Bay",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
@@ -595,52 +608,56 @@
 			{"lat": 79.426, "lng": -16.059}
 		]
 	},
-    {
-		"title": "Davis Quartz",
-		"notes": "Gang: Unclaimed",
-		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": 24.498, "lng": 66.949},
-			{"lat": 24.498, "lng": 75.042},
-			{"lat": 14.131, "lng": 75.042},
-			{"lat": 14.131, "lng": 81.347},
-			{"lat": 8.438, "lng": 81.347},
-			{"lat": 8.438, "lng": 59.213},
-			{"lat": 14.114, "lng": 59.213},
-			{"lat": 14.114, "lng": 58.626},
-			{"lat": 21.895, "lng": 58.626},
-			{"lat": 21.895, "lng": 60.785},
-			{"lat": 24.175, "lng": 60.785},
-			{"lat": 24.175, "lng": 66.949}
-		]
-	},
-    {
-		"title": "Hawick",
-		"notes": "Gang: Unclaimed",
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": -53.373, "lng": -16.248},
-			{"lat": -53.373, "lng": 5.168},
-			{"lat": -56.469, "lng": 5.168},
-			{"lat": -56.469, "lng": -16.248}
-		]
-	},
-    {
-		"title": "Procopio Beach",
-		"notes": "Gang: Unclaimed",
-		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": 78.325, "lng": 2.943},
-			{"lat": 78.325, "lng": 30.151},
-			{"lat": 77.678, "lng": 30.151},
-			{"lat": 77.678, "lng": 0.099},
-			{"lat": 77.903, "lng": 0.099},
-			{"lat": 77.905, "lng": 2.943}
-		]
-	}
+	
+    // {
+	// 	"title": "Davis Quartz",
+	// 	"notes": "Gang: Unclaimed",
+	// 	"order": 0,
+	// 	"strokecolor": "808080",
+	// 	"fillcolor": "808080",
+	// 	"latlngarray": [
+	// 		{"lat": 24.498, "lng": 66.949},
+	// 		{"lat": 24.498, "lng": 75.042},
+	// 		{"lat": 14.131, "lng": 75.042},
+	// 		{"lat": 14.131, "lng": 81.347},
+	// 		{"lat": 8.438, "lng": 81.347},
+	// 		{"lat": 8.438, "lng": 59.213},
+	// 		{"lat": 14.114, "lng": 59.213},
+	// 		{"lat": 14.114, "lng": 58.626},
+	// 		{"lat": 21.895, "lng": 58.626},
+	// 		{"lat": 21.895, "lng": 60.785},
+	// 		{"lat": 24.175, "lng": 60.785},
+	// 		{"lat": 24.175, "lng": 66.949}
+	// 	]
+	// }
+	,
+    // {
+	// 	"title": "Hawick",
+	// 	"notes": "Gang: Unclaimed",
+	// 	"strokecolor": "808080",
+	// 	"fillcolor": "808080",
+	// 	"latlngarray": [
+	// 		{"lat": -53.373, "lng": -16.248},
+	// 		{"lat": -53.373, "lng": 5.168},
+	// 		{"lat": -56.469, "lng": 5.168},
+	// 		{"lat": -56.469, "lng": -16.248}
+	// 	]
+	// }
+	,
+
+    // {
+	// 	"title": "Procopio Beach",
+	// 	"notes": "Gang: Unclaimed",
+	// 	"order": 0,
+	// 	"strokecolor": "808080",
+	// 	"fillcolor": "808080",
+	// 	"latlngarray": [
+	// 		{"lat": 78.325, "lng": 2.943},
+	// 		{"lat": 78.325, "lng": 30.151},
+	// 		{"lat": 77.678, "lng": 30.151},
+	// 		{"lat": 77.678, "lng": 0.099},
+	// 		{"lat": 77.903, "lng": 0.099},
+	// 		{"lat": 77.905, "lng": 2.943}
+	// 	]
+	// }
 ]
