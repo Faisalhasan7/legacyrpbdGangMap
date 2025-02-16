@@ -1,16 +1,5 @@
-// Colors 
-// Unclaimed 808080
-// NSR 0000FF
-// TLMC 36454F
-// Vagos FFFF00
-// Cali  7F00FF
-// White C FFFFFF
-// MWC 
-
-
-
 [
-    {  // 1
+    {  
 		"title": "Elysian Island",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -33,7 +22,7 @@
 			{"lat": -80.474, "lng": -28.355}
 		]
 	},
-    {	// 2
+    {	
 		"title": "Terminal",
 		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
@@ -46,7 +35,7 @@
 			{"lat": -83.149, "lng": 5.081}
 		]
 	},
-    {	// 3
+    {	
 		"title": "Cypress Flats",
 		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
@@ -63,7 +52,7 @@
 			{"lat": -76.274, "lng": 3.019}
 		]
 	},
-    { // 4
+    { 
 		"title": "El Burro Heights",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -86,7 +75,7 @@
 			{"lat": -75.432, "lng": 17.418}
 		]
 	},
-    {	// 5
+    {	
 		"title": "Rancho",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -109,7 +98,7 @@
 			{"lat": -73.172, "lng": -4.542}
 		]
 	},
-    {	// 6
+    {	
 		"title": "Davis",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -130,7 +119,7 @@
 			{"lat": -73.862, "lng": -12.272}
 		]
 	},
-    {	// 7
+    {	
 		"title": "Strawberry",
 		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
@@ -147,7 +136,7 @@
 			{"lat": -71.549, "lng": -26.659}
 		]
 	},
-    {	// 8
+    {	
 		"title": "Pillbox Hill",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -168,7 +157,7 @@
 			{"lat": -68.915, "lng": -25.245}
 		]
 	},
-    {	// 9
+    {	
 		"title": "Textile City",
 		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
@@ -181,7 +170,7 @@
 			{"lat": -65.788, "lng": -6.646}
 		]
 	},
-    {	// 10
+    {	
 		"title": "Murrieta Heights",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
@@ -198,7 +187,7 @@
 			{"lat": -67.321, "lng": 10.917}
 		]
 	},
-    {	// 11
+    {	
 		"title": "Mirror Park",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
@@ -211,7 +200,7 @@
 			{"lat": -65.079, "lng": 10.272}
 		]
 	},
-    {	// 12
+    {	
 		"title": "East Vinewood",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -230,7 +219,7 @@
 			{"lat": -56.469, "lng": 5.168}
 		]
 	},
-    {	// 13
+    {	
 		"title": "Downtown Vinewood",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -243,7 +232,7 @@
 			{"lat": -53.373, "lng": -13.503}
 		]
 	},
-    {	// 14
+    {	
 		"title": "West Vinewood",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -258,7 +247,7 @@
 			{"lat": -52.775, "lng": -36.553}
 		]
 	},
-    {	// 15
+    {	
 		"title": "Del Perro",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -287,7 +276,7 @@
 			{"lat": -63.248, "lng": -69.248}
 		]
 	},
-    {	// 16
+    {	
 		"title": "Vespucci Canals",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -316,7 +305,7 @@
 			{"lat": -65.409, "lng": -48.911}
 		]
 	},
-    {	// 17
+    {	
 		"title": "Vespucci Beach",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -375,7 +364,7 @@
 			{"lat": -68.006, "lng": -55.611}
 		]
 	},
-    {	// 18
+    {	
 		"title": "Vinewood Hills",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -416,7 +405,7 @@
 			{"lat": -40.431, "lng": -57.704}
 		]
 	},
-    {	// 19
+    {	
 		"title": "Tongva Hills",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -435,7 +424,7 @@
 			{"lat": 1.475, "lng": -82.503}
 		]
 	},
-    {	// 20
+    {	
 		"title": "Harmony",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -448,7 +437,7 @@
 			{"lat": 9.774, "lng": -10.277}
 		]
 	},
-    {	// 21
+    {	
 		"title": "Sandy Shores",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
@@ -469,7 +458,7 @@
 			{"lat": 43.085, "lng": 55.025}
 		]
 	},
-    {	// 22
+    {	
 		"title": "Stab City",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
@@ -486,7 +475,7 @@
 			{"lat": 38.699, "lng": -17.457}
 		]
 	},
-    {	// 23
+    {	
 		"title": "Grapeseed",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
@@ -506,35 +495,9 @@
 			{"lat": 56.536, "lng": 55.025},
 			{"lat": 56.536, "lng": 31.612}
 		]
-	}
-	,
-    // {	
-	// 	"title": "Chiliad Mountain State Wilderness",
-	// 	"notes": "Gang: Unclaimed",
-	// 	"order": 0,
-	// 	"strokecolor": "808080",
-	// 	"fillcolor": "808080",
-	// 	"latlngarray": [
-	// 		{"lat": 67.153, "lng": -55.521},
-	// 		{"lat": 67.153, "lng": -47.789},
-	// 		{"lat": 67.432, "lng": -47.789},
-	// 		{"lat": 67.432, "lng": -42.879},
-	// 		{"lat": 66.288, "lng": -42.879},
-	// 		{"lat": 66.288, "lng": -23.614},
-	// 		{"lat": 56.639, "lng": -23.614},
-	// 		{"lat": 56.639, "lng": -68.285},
-	// 		{"lat": 57.887, "lng": -68.285},
-	// 		{"lat": 57.887, "lng": -65.343},
-	// 		{"lat": 58.756, "lng": -65.343},
-	// 		{"lat": 58.756, "lng": -66.735},
-	// 		{"lat": 59.277, "lng": -66.735},
-	// 		{"lat": 59.277, "lng": -70.564},
-	// 		{"lat": 64.636, "lng": -70.564},
-	// 		{"lat": 64.636, "lng": -55.521}
-	// 	]
-	// }
-	,
-    { 	// 24
+	},
+	
+    { 	
 		"title": "Paleto Forest",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
@@ -559,7 +522,7 @@
 			{"lat": 74.785, "lng": -44.515}
 		]
 	},
-    {	// 25
+    {	
 		"title": "Paleto Bay",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
@@ -607,57 +570,5 @@
 			{"lat": 79.422, "lng": -18.119},
 			{"lat": 79.426, "lng": -16.059}
 		]
-	},
-	
-    // {
-	// 	"title": "Davis Quartz",
-	// 	"notes": "Gang: Unclaimed",
-	// 	"order": 0,
-	// 	"strokecolor": "808080",
-	// 	"fillcolor": "808080",
-	// 	"latlngarray": [
-	// 		{"lat": 24.498, "lng": 66.949},
-	// 		{"lat": 24.498, "lng": 75.042},
-	// 		{"lat": 14.131, "lng": 75.042},
-	// 		{"lat": 14.131, "lng": 81.347},
-	// 		{"lat": 8.438, "lng": 81.347},
-	// 		{"lat": 8.438, "lng": 59.213},
-	// 		{"lat": 14.114, "lng": 59.213},
-	// 		{"lat": 14.114, "lng": 58.626},
-	// 		{"lat": 21.895, "lng": 58.626},
-	// 		{"lat": 21.895, "lng": 60.785},
-	// 		{"lat": 24.175, "lng": 60.785},
-	// 		{"lat": 24.175, "lng": 66.949}
-	// 	]
-	// }
-	,
-    // {
-	// 	"title": "Hawick",
-	// 	"notes": "Gang: Unclaimed",
-	// 	"strokecolor": "808080",
-	// 	"fillcolor": "808080",
-	// 	"latlngarray": [
-	// 		{"lat": -53.373, "lng": -16.248},
-	// 		{"lat": -53.373, "lng": 5.168},
-	// 		{"lat": -56.469, "lng": 5.168},
-	// 		{"lat": -56.469, "lng": -16.248}
-	// 	]
-	// }
-	,
-
-    // {
-	// 	"title": "Procopio Beach",
-	// 	"notes": "Gang: Unclaimed",
-	// 	"order": 0,
-	// 	"strokecolor": "808080",
-	// 	"fillcolor": "808080",
-	// 	"latlngarray": [
-	// 		{"lat": 78.325, "lng": 2.943},
-	// 		{"lat": 78.325, "lng": 30.151},
-	// 		{"lat": 77.678, "lng": 30.151},
-	// 		{"lat": 77.678, "lng": 0.099},
-	// 		{"lat": 77.903, "lng": 0.099},
-	// 		{"lat": 77.905, "lng": 2.943}
-	// 	]
-	// }
+	}
 ]
