@@ -1,6 +1,6 @@
 [
     {  
-		"title": "Elysian Island",
+		"title": "1. Elysian Island",
 		"notes": "Gang: White Cartel",
 		"order": 0,
 		"strokecolor": "ffffff",
@@ -23,7 +23,7 @@
 		]
 	},
     {	
-		"title": "Terminal",
+		"title": "2. Terminal",
 		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
 		"strokecolor": "FFFF00",
@@ -36,7 +36,7 @@
 		]
 	},
     {	
-		"title": "Cypress Flats",
+		"title": "3. Cypress Flats",
 		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
 		"strokecolor": "FFFF00",
@@ -53,7 +53,7 @@
 		]
 	},
     { 
-		"title": "El Burro Heights",
+		"title": "4. El Burro Heights",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -76,7 +76,7 @@
 		]
 	},
     {	
-		"title": "Rancho",
+		"title": "5. Rancho",
 		"notes": "Gang: Los Santos Vagos (LSV)",
 		"order": 0,
 		"strokecolor": "FFFF00",
@@ -99,7 +99,7 @@
 		]
 	},
     {	
-		"title": "Davis",
+		"title": "6. Davis",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -120,7 +120,7 @@
 		]
 	},
     {	
-		"title": "Strawberry",
+		"title": "7. Strawberry",
 		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
 		"strokecolor": "36454F",
@@ -137,7 +137,7 @@
 		]
 	},
     {	
-		"title": "Pillbox Hill",
+		"title": "8. Pillbox Hill",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
 		"strokecolor": "7F00FF",
@@ -158,7 +158,7 @@
 		]
 	},
     {	
-		"title": "Textile City",
+		"title": "9. Textile City",
 		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
 		"strokecolor": "36454F",
@@ -171,7 +171,7 @@
 		]
 	},
     {	
-		"title": "Murrieta Heights",
+		"title": "10. Murrieta Heights",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
 		"strokecolor": "7F00FF",
@@ -188,7 +188,7 @@
 		]
 	},
     {	
-		"title": "Mirror Park",
+		"title": "11. Mirror Park",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
 		"strokecolor": "0000FF",
@@ -201,7 +201,7 @@
 		]
 	},
     {	
-		"title": "East Vinewood",
+		"title": "12. East Vinewood",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -220,7 +220,7 @@
 		]
 	},
     {	
-		"title": "Downtown Vinewood",
+		"title": "13. Downtown Vinewood",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -233,7 +233,7 @@
 		]
 	},
     {	
-		"title": "West Vinewood",
+		"title": "14. West Vinewood",
 		"notes": "Gang: Blood Line",
 		"order": 0,
 		"strokecolor": "ff0000",
@@ -248,7 +248,7 @@
 		]
 	},
     {	
-		"title": "Del Perro",
+		"title": "15. Del Perro",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -277,7 +277,7 @@
 		]
 	},
     {	
-		"title": "Vespucci Canals",
+		"title": "16. Vespucci Canals",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -306,7 +306,7 @@
 		]
 	},
     {	
-		"title": "Vespucci Beach",
+		"title": "17. Vespucci Beach",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -365,7 +365,7 @@
 		]
 	},
     {	
-		"title": "Vinewood Hills",
+		"title": "18. Vinewood Hills",
 		"notes": "Gang: White Cartel",
 		"order": 0,
 		"strokecolor": "ffffff",
@@ -406,7 +406,7 @@
 		]
 	},
     {	
-		"title": "Tongva Hills",
+		"title": "19. Tongva Hills",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -425,7 +425,7 @@
 		]
 	},
     {	
-		"title": "Harmony",
+		"title": "20. Harmony",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -438,7 +438,7 @@
 		]
 	},
     {	
-		"title": "Sandy Shores",
+		"title": "21. Sandy Shores",
 		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
 		"strokecolor": "0000FF",
@@ -459,7 +459,7 @@
 		]
 	},
     {	
-		"title": "Stab City",
+		"title": "22. Stab City",
 		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
 		"strokecolor": "36454F",
@@ -476,7 +476,7 @@
 		]
 	},
     {	
-		"title": "Grapeseed",
+		"title": "23. Grapeseed",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
 		"strokecolor": "7F00FF",
@@ -498,7 +498,7 @@
 	},
 	
     { 	
-		"title": "Paleto Forest",
+		"title": "24. Paleto Forest",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
 		"strokecolor": "7F00FF",
@@ -523,7 +523,7 @@
 		]
 	},
     {	
-		"title": "Paleto Bay",
+		"title": "25. Paleto Bay",
 		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
 		"strokecolor": "7F00FF",
