@@ -159,10 +159,10 @@
 	},
     {	
 		"title": "Textile City",
-		"notes": "Gang: Los Santos Vagos (LSV)",
+		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "36454F",
+		"fillcolor": "36454F",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
