@@ -172,10 +172,10 @@
 	},
     {	
 		"title": "10. Murrieta Heights",
-		"notes": "Gang: The Cali Cartels (CC)",
+		"notes": "Gang: Night Shade Rivals (NSR)",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "0000ff",
+		"fillcolor": "0000ff",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -249,10 +249,10 @@
 	},
     {	
 		"title": "15. Del Perro",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": -59.524, "lng": -69.248},
 			{"lat": -59.524, "lng": -52.526},
