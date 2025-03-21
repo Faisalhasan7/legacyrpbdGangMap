@@ -1,10 +1,10 @@
 [
     {  
 		"title": "1. Elysian Island",
-		"notes": "Gang: Merry Weather Corp",
+		"notes": "Gang: Sons of Legacy",
 		"order": 0,
-		"strokecolor": "8B0000",
-		"fillcolor": "8B0000",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
 			{"lat": -76.962, "lng": -22.957},
@@ -37,7 +37,7 @@
 	},
     {	
 		"title": "3. Cypress Flats",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
 		"strokecolor": "808080",
 		"fillcolor": "808080",
@@ -77,10 +77,10 @@
 	},
     {	
 		"title": "5. Rancho",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Los Santos Vagos",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FFFF00",
+		"fillcolor": "FFFF00",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -121,10 +121,10 @@
 	},
     {	
 		"title": "7. Strawberry",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Los Santos Vagos",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FFFF00",
+		"fillcolor": "FFFF00",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -202,10 +202,10 @@
 	},
     {	
 		"title": "12. East Vinewood",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: DDos Families",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00ff00",
+		"fillcolor": "00ff00",
 		"latlngarray": [
 			{"lat": -53.621, "lng": 5.168},
 			{"lat": -53.621, "lng": 12.642},
@@ -366,10 +366,10 @@
 	},
     {	
 		"title": "18. Vinewood Hills",
-		"notes": "Gang: Sons of Legacy",
+		"notes": "Gang: White Cartel",
 		"order": 0,
-		"strokecolor": "8B0000",
-		"fillcolor": "8B0000",
+		"strokecolor": "ffffff",
+		"fillcolor": "ffffff",
 		"latlngarray": [
 			{"lat": -24.322, "lng": -57.704},
 			{"lat": -24.322, "lng": -52.748},
@@ -407,10 +407,10 @@
 	},
     {	
 		"title": "19. Tongva Hills",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: The Lost MC (TLMC)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "36454F",
+		"fillcolor": "36454F",
 		"latlngarray": [
 			{"lat": 4.621, "lng": -82.503},
 			{"lat": 4.621, "lng": -60.391},
@@ -426,10 +426,10 @@
 	},
     {	
 		"title": "20. Harmony",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Blood Line",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "ff0000",
+		"fillcolor": "ff0000",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
 			{"lat": 17.381, "lng": 5.082},
@@ -477,10 +477,10 @@
 	},
     {	
 		"title": "23. Grapeseed",
-		"notes": "Gang: The Cali Cartels (CC)",
+		"notes": "Gang: Night Shade Rivals",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "00008B",
+		"fillcolor": "00008B",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -525,10 +525,10 @@
 	
     {	
 		"title": "25. Paleto Bay",
-		"notes": "Gang: Merry Weather Corp",
+		"notes": "Gang: The Cali Cartels (CC)",
 		"order": 0,
-		"strokecolor": "8B0000",
-		"fillcolor": "8B0000",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
