@@ -128,7 +128,7 @@
 		],
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/Y0fRBkdf/Gangphoto.webp",
+			"url": "https://i.postimg.cc/fRStSTPr/white-cartel.webp",
 			"alt": "White Cartel"
 		}
 	},
@@ -331,11 +331,109 @@
 		],
 		"media": {
 			"type": "image",
-			"url": "",
+			"url": "https://i.postimg.cc/qqZqg9xr/ddos-loading-sceen-2.webp",
 			"alt": "DDos Families"
+		}
+	},
+
+	{
+		"title": "Madrazo Cartel - Hood",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "c6c3b5",
+		"latlngarray": [
+			{"lat": -27.178, "lng": 22.814},
+			{"lat": -27.217, "lng": 24.352},
+			{"lat": -27.256, "lng": 26.154},
+			{"lat": -27.119, "lng": 28.066},
+			{"lat": -27.529, "lng": 28.747},
+			{"lat": -28.286, "lng": 28.944},
+			{"lat": -29.000, "lng": 28.944},
+			{"lat": -29.689, "lng": 29.120},
+			{"lat": -30.222, "lng": 29.098},
+			{"lat": -30.993, "lng": 29.084},
+			{"lat": -31.247, "lng": 28.985},
+			{"lat": -31.341, "lng": 28.589},
+			{"lat": -31.369, "lng": 27.480},
+			{"lat": -31.331, "lng": 26.436},
+			{"lat": -31.360, "lng": 25.766},
+			{"lat": -31.331, "lng": 25.041},
+			{"lat": -31.360, "lng": 23.997},
+			{"lat": -31.369, "lng": 23.272},
+			{"lat": -31.343, "lng": 23.041},
+			{"lat": -30.561, "lng": 23.041},
+			{"lat": -29.887, "lng": 22.953},
+			{"lat": -29.160, "lng": 22.876},
+			{"lat": -28.448, "lng": 22.887},
+			{"lat": -27.779, "lng": 22.854},
+			{"lat": -27.302, "lng": 22.854}
+		],
+		"media": {
+			"type": "image",
+			"url": "",
+			"alt": "Madrazo Cartel"
+		}
+	},
+	{
+		"title": "Sons of Legacy - Hood",
+		"notes": "<edit this>",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "900C3F",
+		"latlngarray": [
+			{"lat": 75.757, "lng": -25.696},
+			{"lat": 75.876, "lng": -26.069},
+			{"lat": 76.115, "lng": -26.553},
+			{"lat": 76.262, "lng": -26.124},
+			{"lat": 76.332, "lng": -25.575},
+			{"lat": 76.407, "lng": -25.103},
+			{"lat": 76.523, "lng": -24.455},
+			{"lat": 76.643, "lng": -23.736},
+			{"lat": 76.772, "lng": -23.044},
+			{"lat": 76.920, "lng": -22.341},
+			{"lat": 77.075, "lng": -21.657},
+			{"lat": 77.220, "lng": -21.008},
+			{"lat": 77.391, "lng": -20.503},
+			{"lat": 77.664, "lng": -19.580},
+			{"lat": 77.838, "lng": -18.556},
+			{"lat": 77.958, "lng": -17.668},
+			{"lat": 78.072, "lng": -16.943},
+			{"lat": 78.196, "lng": -16.097},
+			{"lat": 78.283, "lng": -15.163},
+			{"lat": 78.106, "lng": -14.712},
+			{"lat": 78.035, "lng": -14.015},
+			{"lat": 77.911, "lng": -13.378},
+			{"lat": 77.807, "lng": -13.378},
+			{"lat": 77.651, "lng": -14.147},
+			{"lat": 77.480, "lng": -14.904},
+			{"lat": 77.334, "lng": -15.607},
+			{"lat": 77.191, "lng": -16.233},
+			{"lat": 77.066, "lng": -16.673},
+			{"lat": 76.893, "lng": -17.531},
+			{"lat": 76.748, "lng": -18.203},
+			{"lat": 76.526, "lng": -19.038},
+			{"lat": 76.333, "lng": -19.994},
+			{"lat": 76.087, "lng": -20.961},
+			{"lat": 75.820, "lng": -22.136},
+			{"lat": 75.644, "lng": -22.807},
+			{"lat": 75.526, "lng": -23.257},
+			{"lat": 75.427, "lng": -23.587},
+			{"lat": 75.411, "lng": -24.015},
+			{"lat": 75.482, "lng": -24.597},
+			{"lat": 75.576, "lng": -25.048},
+			{"lat": 75.682, "lng": -25.443}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/2SHYY4Tp/Picsart-25-03-19-18-57-15-488.webp",
+			"alt": "Sons of Legacy"
 		}
 	}
 
+	
 
 ]
 
