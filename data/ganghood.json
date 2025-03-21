@@ -297,7 +297,45 @@
 			"url": "https://i.postimg.cc/3RGJt5p5/image-4.png",
 			"alt": "The Bloodline"
 		}
-	}
+	},
+
+	{
+		"title": "DDos Families - Hood",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "00ff00",
+		"latlngarray": [
+			{"lat": -73.403, "lng": -20.750},
+			{"lat": -73.806, "lng": -20.552},
+			{"lat": -73.865, "lng": -20.541},
+			{"lat": -74.092, "lng": -21.486},
+			{"lat": -73.932, "lng": -22.046},
+			{"lat": -73.837, "lng": -22.508},
+			{"lat": -73.742, "lng": -23.024},
+			{"lat": -73.584, "lng": -23.892},
+			{"lat": -73.485, "lng": -24.419},
+			{"lat": -73.189, "lng": -23.903},
+			{"lat": -72.997, "lng": -23.441},
+			{"lat": -72.692, "lng": -22.903},
+			{"lat": -72.607, "lng": -22.574},
+			{"lat": -72.673, "lng": -22.090},
+			{"lat": -72.758, "lng": -21.695},
+			{"lat": -72.949, "lng": -21.980},
+			{"lat": -73.145, "lng": -21.996},
+			{"lat": -73.268, "lng": -22.051},
+			{"lat": -73.385, "lng": -22.018},
+			{"lat": -73.388, "lng": -21.358},
+			{"lat": -73.385, "lng": -20.853}
+		],
+		"media": {
+			"type": "image",
+			"url": "",
+			"alt": "DDos Families"
+		}
+	},
+
 
 ]
 
