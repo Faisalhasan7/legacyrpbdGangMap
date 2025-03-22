@@ -579,22 +579,13 @@
 		]
 	},
 
-	{
-		"title": "Davis Quartz",
-		"notes": "Gang: Unclaimed",
-		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": 24.474, "lng": 57.786},
-			{"lat": 12.455, "lng": 57.786},
-			{"lat": 12.455, "lng": 75.364},
-			{"lat": 24.474, "lng": 75.364}
-		]
-	},
+
+
+
+	
 
 	{
-		"title": "Procopio Beach",
+		"title": "26. Procopio Beach",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -612,7 +603,7 @@
 	},
 		
 	{
-		"title": "Chiliad Mountain State Wilderness",
+		"title": "27. Chiliad Mountain State Wilderness",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -626,9 +617,22 @@
 		]
 	},
 
+	{
+		"title": "28. Davis Quartz",
+		"notes": "Gang: Unclaimed",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": 24.474, "lng": 57.786},
+			{"lat": 12.455, "lng": 57.786},
+			{"lat": 12.455, "lng": 75.364},
+			{"lat": 24.474, "lng": 75.364}
+		]
+	},
 
 	{
-		"title": "Eclipse Boulevard",
+		"title": "29. Eclipse Boulevard",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -730,23 +734,9 @@
 			{"lat": -55.699, "lng": -59.888}
 		]
 	},
-
+	
 	{
-		"title": "Hawick Avenue",
-		"notes": "Gang: Unclaimed",
-		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": -53.463, "lng": 0.127},
-			{"lat": -58.518, "lng": 0.017},
-			{"lat": -58.449, "lng": -22.219},
-			{"lat": -53.371, "lng": -22.065}
-		]
-	},
-
-	{
-		"title": "Forum Drive",
+		"title": "30. Forum Drive",
 		"notes": "Gang: Unclaimed",
 		"order": 0,
 		"strokecolor": "808080",
@@ -756,6 +746,20 @@
 			{"lat": -71.556, "lng": -16.789},
 			{"lat": -74.356, "lng": -16.765},
 			{"lat": -74.323, "lng": -26.762}
+		]
+	},
+
+	{
+		"title": "31. Hawick Avenue",
+		"notes": "Gang: Unclaimed",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -53.463, "lng": 0.127},
+			{"lat": -58.518, "lng": 0.017},
+			{"lat": -58.449, "lng": -22.219},
+			{"lat": -53.371, "lng": -22.065}
 		]
 	}
 
