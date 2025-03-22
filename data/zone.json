@@ -460,10 +460,10 @@
 	},
     {	
 		"title": "22. Stab City",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: Blood Line",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "ff0000",
+		"fillcolor": "ff0000",
 		"latlngarray": [
 			{"lat": 43.567, "lng": -17.457},
 			{"lat": 43.567, "lng": -7.794},
