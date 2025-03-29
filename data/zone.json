@@ -100,10 +100,10 @@
 	},
     {	
 		"title": "6. Davis",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Sons of Legacy",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -12.272},
 			{"lat": -71.551, "lng": -4.542},
@@ -189,10 +189,10 @@
 	},
     {	
 		"title": "11. Mirror Park",
-		"notes": "Gang: Cali Cartel",
+		"notes": "Gang: White Cartel",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "ffffff",
+		"fillcolor": "ffffff",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
