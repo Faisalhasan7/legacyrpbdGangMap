@@ -1,29 +1,50 @@
-Legacy Roleplay Bangladesh Territory Map | Zones
-====
-[Live](https://faisalhasan7.github.io/legacyrpbdGangMap/)
-This interactive (Google) map shows you the location of current Leagacy Roleplay Bangladesh Territory/Gang Zones, Hoods, Businness and others.
+# Legacy Roleplay Bangladesh Territory Map | Zones
 
-## How to submit new locations
-1. Right click on the map to add points.
-2. Click "Add New Region" to copy the region data in your clipboard.
-3. Replace "\<edit this\>" with correct information.
-4. Replace the id with an unused id while trying to maintain the pattern in `locations.json`
-5. Change the type, add a video or images, and change the color of the region.
-6. Add new region to `locations.json` and create a pull request.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://faisalhasan7.github.io/legacyrpbdGangMap/)
 
+An interactive Google Map displaying the current **Legacy Roleplay Bangladesh** gang territories, hoods, businesses, and other locations.
 
-## License
-[WTFPL](https://github.com/skyrossm/np-gangmap/blob/master/LICENSE)
+---
 
-## Version
-1.2
+## 🚀 Features
+✅ View real-time territory zones <br>
+✅ Easily submit new locations <br>
+✅ Customize regions with colors, images, and videos <br>
+✅ Open-source & community-driven
 
-## Credits
-To [Sky](https://github.com/skyrossm) for [NoPixel Territory map](http://github.com/skyrossm/np-gangmap).
+---
 
-To [danharper](https://github.com/danharper/) for [his work](https://github.com/danharper/GTAV) on the GTA V map.
+## 📍 How to Submit New Locations
+1. **Right-click** on the map to add a new point.
+2. Click **"Add New Region"** to copy the generated region data.
+3. Edit the copied data:
+   - Replace `"<edit this>"` with correct information.
+   - Assign an unused ID, maintaining the pattern in `locations.json`.
+   - Modify `type`, attach videos/images, and change region color.
+4. Add the new region to `locations.json` and **create a pull request**.
 
-To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/gta5-map/gta5-map.github.io) on the GTA V map.
+---
 
-## Screenshots
-![screenshot-1](https://i.postimg.cc/nL31f5P8/chrome-9-LAh-U8-TNDE.jpg)
+## 📜 License
+This project is licensed under the [WTFPL](https://github.com/skyrossm/np-gangmap/blob/master/LICENSE).
+
+---
+
+## 🔥 Version
+**v1.2**
+
+---
+
+## 🎖️ Credits
+- **[Sky](https://github.com/skyrossm)** for the [NoPixel Territory Map](http://github.com/skyrossm/np-gangmap).
+- **[danharper](https://github.com/danharper/)** for [his work](https://github.com/danharper/GTAV) on the GTA V map.
+- **[gta5-map](https://github.com/gta5-map)** for their contributions to the [GTA V map](https://github.com/gta5-map/gta5-map.github.io).
+
+---
+
+## 🖼️ Screenshots
+![Screenshot](https://i.postimg.cc/nL31f5P8/chrome-9-LAh-U8-TNDE.jpg)
+
+---
+
+❤️ *Made with love for Legacy Roleplay Bangladesh* ❤️
