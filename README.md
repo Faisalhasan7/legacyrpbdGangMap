@@ -37,8 +37,8 @@ This project is licensed under the [WTFPL](https://github.com/skyrossm/np-gangma
 
 ## 🎖️ Credits
 - **[Sky](https://github.com/skyrossm)** for the [NoPixel Territory Map](http://github.com/skyrossm/np-gangmap).
-- **[danharper](https://github.com/danharper/)** for [his work](https://github.com/danharper/GTAV) on the GTA V map.
-- **[gta5-map](https://github.com/gta5-map)** for their contributions to the [GTA V map](https://github.com/gta5-map/gta5-map.github.io).
+- **[Dan Harper](https://github.com/danharper/)** for [his work](https://github.com/danharper/GTAV) on the GTA V map.
+- **[GTA V Map](https://github.com/gta5-map)** for their contributions to the [GTA V map](https://github.com/gta5-map/gta5-map.github.io).
 
 ---
 
