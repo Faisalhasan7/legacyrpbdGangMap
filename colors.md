@@ -6,6 +6,7 @@ This document contains a list of Whitelisted Gangs and their colors for easy ref
 
 | Gang Name            | Color Code | Preview |
 |----------------------|-----------|---------|
+| Unclaimed           | `#808080`  | ![#808080](https://www.colorhexa.com/808080.png) |
 | Merry Weather       | `#85200C`  | ![#0C2085](https://www.colorhexa.com/85200C.png) |
 | Sons of Legacy      | `#900C3F`  | ![#900C3F](https://www.colorhexa.com/900C3F.png) |
 | The Lost MC         | `#36454F`  | ![#36454F](https://www.colorhexa.com/36454F.png) |
@@ -16,7 +17,6 @@ This document contains a list of Whitelisted Gangs and their colors for easy ref
 | Cali Cartel         | `#7F00FF`  | ![#7F00FF](https://www.colorhexa.com/7F00FF.png) |
 | DDOS Families       | `#00FF00`  | ![#00FF00](https://www.colorhexa.com/00FF00.png) |
 | Madrazo Cartel      | `#C0C0C0`  | ![#C0C0C0](https://www.colorhexa.com/C0C0C0.png) |
-| Unclaimed           | `#808080`  | ![#808080](https://www.colorhexa.com/808080.png) |
 
 ### Usage
 - This table can be used as a reference for design and branding.
