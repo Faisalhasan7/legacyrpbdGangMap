@@ -63,5 +63,19 @@
 			{"lat": -48.103, "lng": -19.487},
 			{"lat": -48.037, "lng": -20.157}
 		]
+	},
+	{
+		"title": "Arcade Bar",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -64.852, "lng": 6.168},
+			{"lat": -64.852, "lng": 7.101},
+			{"lat": -65.205, "lng": 7.068},
+			{"lat": -65.206, "lng": 6.097}
+		]
 	}
 ]
