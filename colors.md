@@ -1,9 +1,9 @@
 # Gang Colors
 
 This document contains a list of Whitelisted Gangs and their colors for easy reference.
-# Gang List
 
 ## Gang Color Codes
+
 - `#808080` - **Unclaimed**
 - `#85200C` - **Merry Weather**
 - `#900C3F` - **Sons of Legacy**
