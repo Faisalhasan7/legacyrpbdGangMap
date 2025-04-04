@@ -1,10 +1,10 @@
 [
     {  
 		"title": "1. Elysian Island",
-		"notes": "Gang: Night Shade Rivals",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "00008B",
-		"fillcolor": "00008B",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
 			{"lat": -76.962, "lng": -22.957},
@@ -24,10 +24,10 @@
 	},
     {	
 		"title": "2. Terminal",
-		"notes": "Gang: Merryweather Corps",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "85200c",
-		"fillcolor": "85200c",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -80.331, "lng": 5.081},
 			{"lat": -80.331, "lng": 24.856},
@@ -37,10 +37,10 @@
 	},
     {	
 		"title": "3. Cypress Flats",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -54,10 +54,10 @@
 	},
     { 
 		"title": "4. El Burro Heights",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -77,10 +77,10 @@
 	},
     {	
 		"title": "5. Rancho",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -100,10 +100,10 @@
 	},
     {	
 		"title": "6. Davis",
-		"notes": "Gang: Sons of Legacy",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "900C3F",
-		"fillcolor": "900C3F",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -12.272},
 			{"lat": -71.551, "lng": -4.542},
@@ -121,10 +121,10 @@
 	},
     {	
 		"title": "7. Strawberry",
-		"notes": "Gang: Los Santos Vagos",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -138,10 +138,10 @@
 	},
     {	
 		"title": "8. Pillbox Hill",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -63.921, "lng": -25.245},
 			{"lat": -63.921, "lng": -22.826},
@@ -159,10 +159,10 @@
 	},
     {	
 		"title": "9. Textile City",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
@@ -172,10 +172,10 @@
 	},
     {	
 		"title": "10. Murrieta Heights",
-		"notes": "Gang: White Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ffffff",
-		"fillcolor": "ffffff",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -189,10 +189,10 @@
 	},
     {	
 		"title": "11. Mirror Park",
-		"notes": "Gang: White Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ffffff",
-		"fillcolor": "ffffff",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -202,10 +202,10 @@
 	},
     {	
 		"title": "12. East Vinewood",
-		"notes": "Gang: DDos Families",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "00ff00",
-		"fillcolor": "00ff00",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -53.621, "lng": 5.168},
 			{"lat": -53.621, "lng": 12.642},
@@ -221,10 +221,10 @@
 	},
     {	
 		"title": "13. Downtown Vinewood",
-		"notes": "Gang: Cali Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -234,10 +234,10 @@
 	},
     {	
 		"title": "14. West Vinewood",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -249,10 +249,10 @@
 	},
     {	
 		"title": "15. Del Perro",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -59.524, "lng": -69.249},
 
@@ -284,10 +284,10 @@
 	},
     {	
 		"title": "16. Vespucci Canals",
-		"notes": "Gang: Cali Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -313,10 +313,10 @@
 	},
     {	
 		"title": "17. Vespucci Beach",
-		"notes": "Gang: Cali Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
@@ -372,10 +372,10 @@
 	},
     {	
 		"title": "18. Vinewood Hills",
-		"notes": "Gang: White Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ffffff",
-		"fillcolor": "ffffff",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -24.322, "lng": -57.704},
 			{"lat": -24.322, "lng": -52.748},
@@ -413,10 +413,10 @@
 	},
     {	
 		"title": "19. Tongva Hills",
-		"notes": "Gang: The Lost MC (TLMC)",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "36454F",
-		"fillcolor": "36454F",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 4.621, "lng": -82.503},
 			{"lat": 4.621, "lng": -60.391},
@@ -432,10 +432,10 @@
 	},
     {	
 		"title": "20. Harmony",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
 			{"lat": 17.381, "lng": 5.082},
@@ -445,10 +445,10 @@
 	},
     {	
 		"title": "21. Sandy Shores",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 47.476, "lng": 55.025},
 			{"lat": 47.476, "lng": 66.426},
@@ -466,10 +466,10 @@
 	},
     {	
 		"title": "22. Stab City",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 43.567, "lng": -17.457},
 			{"lat": 43.567, "lng": -7.794},
@@ -483,10 +483,10 @@
 	},
     {	
 		"title": "23. Grapeseed",
-		"notes": "Gang: Night Shade Rivals",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "00008B",
-		"fillcolor": "00008B",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -505,10 +505,10 @@
 	
     { 	
 		"title": "24. Paleto Forest",
-		"notes": "Gang: Blood Line",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "ff0000",
-		"fillcolor": "ff0000",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
 			{"lat": 75.891, "lng": -39.607},
@@ -531,10 +531,10 @@
 	
     {	
 		"title": "25. Paleto Bay",
-		"notes": "Gang: Cali Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
