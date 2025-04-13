@@ -1,10 +1,10 @@
 [
     {  
 		"title": "1. Elysian Island",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Cali Cartel",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
 			{"lat": -76.962, "lng": -22.957},
@@ -198,10 +198,10 @@
 
     {	
 		"title": "11. Mirror Park",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Blood Line",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -262,10 +262,10 @@
 
     {	
 		"title": "15. Del Perro",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: DDOS Families",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
 		"latlngarray": [
 			{"lat": -59.524, "lng": -69.249},
 
@@ -328,10 +328,10 @@
 
     {	
 		"title": "17. Vespucci Beach",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Night Shade Rivals",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00008B",
+		"fillcolor": "00008B",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
@@ -488,10 +488,10 @@
 
     {	
 		"title": "22. Stab City",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "36454F",
+		"fillcolor": "36454F",
 		"latlngarray": [
 			{"lat": 43.567, "lng": -17.457},
 			{"lat": 43.567, "lng": -7.794},
@@ -554,10 +554,10 @@
 	
     {	
 		"title": "25. Paleto Bay",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Sons of Legacy",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
@@ -649,10 +649,10 @@
 
 	{
 		"title": "29. Eclipse Boulevard",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: White Cartel",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": -55.704, "lng": -60.280},
 			{"lat": -54.808, "lng": -61.445},
@@ -753,10 +753,10 @@
 	
 	{
 		"title": "30. Forum Drive",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: DDOS Families",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -26.666},
 			{"lat": -71.551, "lng": -16.757},
@@ -781,12 +781,12 @@
 
 
 	{
-		"title": "32. Litte Seoul",
-		"notes": "Gang: Unclaimed",
+		"title": "32. Little Seoul",
+		"notes": "Gang: Night Shade Rivals",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00008B",
+		"fillcolor": "00008B",
 		"latlngarray": [
 			{"lat": -63.177, "lng": -39.734},
 			{"lat": -63.216, "lng": -27.639},
