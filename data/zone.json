@@ -328,10 +328,10 @@
 
     {	
 		"title": "17. Vespucci Beach",
-		"notes": "Gang: Night Shade Rivals",
+		"notes": "Gang: Sons of Legacy",
 		"order": 0,
-		"strokecolor": "00008B",
-		"fillcolor": "00008B",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
