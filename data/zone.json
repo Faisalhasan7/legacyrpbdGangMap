@@ -166,10 +166,10 @@
 	
     {	
 		"title": "9. Textile City",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Madrazo Cartel",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "C0C0C0",
+		"fillcolor": "C0C0C0",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
@@ -246,10 +246,10 @@
 
     {	
 		"title": "14. West Vinewood",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Blood Line",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -298,10 +298,10 @@
 
     {	
 		"title": "16. Vespucci Canals",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Sons of Legacy",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -430,10 +430,10 @@
 
     {	
 		"title": "19. Tongva Hills",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "36454F",
+		"fillcolor": "36454F",
 		"latlngarray": [
 			{"lat": 4.621, "lng": -82.503},
 			{"lat": 4.621, "lng": -60.391},
@@ -450,10 +450,10 @@
 
     {	
 		"title": "20. Harmony",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: DDos Families",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
 		"latlngarray": [
 			{"lat": 21.500, "lng": -10.250},
 			{"lat": 21.500, "lng": 22.500},
@@ -766,10 +766,10 @@
 
 	{
 		"title": "31. Hawick Avenue",
-		"notes": "Gang: DDOS Families",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "00FF00",
-		"fillcolor": "00FF00",
+		"strokecolor": "36454F",
+		"fillcolor": "36454F",
 		"latlngarray": [
 			{"lat": -53.371, "lng": 0.127},
 			{"lat": -58.518, "lng": 0.017},
@@ -781,11 +781,11 @@
 
 	{
 		"title": "32. Little Seoul",
-		"notes": "Gang: Night Shade Rivals",
+		"notes": "Gang: Sons of Legacy",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "00008B",
-		"fillcolor": "00008B",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": -63.177, "lng": -39.734},
 			{"lat": -63.216, "lng": -27.639},
