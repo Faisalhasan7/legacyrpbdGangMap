@@ -57,31 +57,42 @@
 	},
 	
 	{
-		"title": "NSR - Hood",
-		"notes": "Night Shade Rivals",
+		"title": "Saints - Hood",
+		"notes": "The Saints",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "0000FF",
+		"fillcolor": "F5F5DC",
 		"latlngarray": [
-			{"lat": -73.047, "lng": -48.516},
-			{"lat": -72.737, "lng": -46.933},
-			{"lat": -73.308, "lng": -45.571},
-			{"lat": -73.361, "lng": -45.373},
-			{"lat": -73.431, "lng": -45.176},
-			{"lat": -73.481, "lng": -44.802},
-			{"lat": -73.692, "lng": -45.670},
-			{"lat": -73.857, "lng": -46.428},
-			{"lat": -73.710, "lng": -46.901},
-			{"lat": -73.540, "lng": -47.252},
-			{"lat": -73.393, "lng": -47.637},
-			{"lat": -73.216, "lng": -48.054},
-			{"lat": -73.060, "lng": -48.450}
+			{"lat": -74.710, "lng": -8.396},
+			{"lat": -74.423, "lng": -7.276},
+			{"lat": -74.212, "lng": -6.507},
+			{"lat": -73.990, "lng": -5.826},
+			{"lat": -73.788, "lng": -6.760},
+			{"lat": -73.681, "lng": -7.276},
+			{"lat": -73.538, "lng": -7.869},
+			{"lat": -73.501, "lng": -8.056},
+			{"lat": -73.582, "lng": -8.221},
+			{"lat": -73.647, "lng": -8.484},
+			{"lat": -73.736, "lng": -8.792},
+			{"lat": -73.794, "lng": -9.023},
+			{"lat": -73.889, "lng": -9.462},
+			{"lat": -73.923, "lng": -9.825},
+			{"lat": -74.011, "lng": -10.000},
+			{"lat": -74.098, "lng": -10.286},
+			{"lat": -74.182, "lng": -10.495},
+			{"lat": -74.269, "lng": -10.264},
+			{"lat": -74.308, "lng": -10.121},
+			{"lat": -74.391, "lng": -9.693},
+			{"lat": -74.473, "lng": -9.308},
+			{"lat": -74.576, "lng": -8.968},
+			{"lat": -74.643, "lng": -8.682},
+			{"lat": -74.710, "lng": -8.407}
 		],
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/tg9MGhmV/NSR.png",
-			"alt": "Night Shade Rivals"
+			"url": "",
+			"alt": "Saints"
 		}
 	},
 	
@@ -218,28 +229,38 @@
 	},
 
 	{
-		"title": "MWC - Hood",
-		"notes": "Merry Weather Corp ",
+		"title": "East Side Ballas - Hood",
+		"notes": "East Side Ballas",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "FF0000",
+		"fillcolor": "A020F0",
 		"latlngarray": [
-			{"lat": -56.371, "lng": -60.191},
-			{"lat": -57.326, "lng": -58.642},
-			{"lat": -58.419, "lng": -60.202},
-			{"lat": -57.804, "lng": -61.455},
-			{"lat": -57.474, "lng": -61.345},
-			{"lat": -57.190, "lng": -61.268},
-			{"lat": -56.915, "lng": -61.103},
-			{"lat": -56.686, "lng": -60.839},
-			{"lat": -56.541, "lng": -60.587},
-			{"lat": -56.426, "lng": -60.378}
+			{"lat": -74.858, "lng": -15.712},
+			{"lat": -74.618, "lng": -14.932},
+			{"lat": -75.143, "lng": -12.526},
+			{"lat": -75.216, "lng": -12.031},
+			{"lat": -75.485, "lng": -10.131},
+			{"lat": -75.679, "lng": -10.592},
+			{"lat": -75.804, "lng": -11.142},
+			{"lat": -75.882, "lng": -11.339},
+			{"lat": -75.962, "lng": -11.834},
+			{"lat": -76.073, "lng": -12.383},
+			{"lat": -75.986, "lng": -12.866},
+			{"lat": -75.839, "lng": -13.484},
+			{"lat": -75.685, "lng": -13.924},
+			{"lat": -75.576, "lng": -14.418},
+			{"lat": -75.458, "lng": -15.022},
+			{"lat": -75.355, "lng": -15.341},
+			{"lat": -75.255, "lng": -15.780},
+			{"lat": -75.157, "lng": -16.198},
+			{"lat": -75.086, "lng": -16.539},
+			{"lat": -74.924, "lng": -16.022}
 		],
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/k5kcfrGQ/MWC.png",
-			"alt": "Merry Weather Corp"
+			"url": "",
+			"alt": "East Side Ballas"
 		}
 	},
 	
@@ -436,6 +457,3 @@
 	
 
 ]
-
-
-	
