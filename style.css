@@ -326,3 +326,12 @@ body { height: 100%; margin: 0; padding: 0 }
 	0%, 75%, 100% { opacity: 0; transform: rotateY(-90deg); }
 	25%, 50% { opacity: 1; transform: rotateY(0deg); }
 }
+
+body > header > p > a {
+  color: initial; /* Or your preferred base color */
+  transition: color 0.3s ease;
+}
+
+body > header > p > a:hover {
+  color: white;
+}
