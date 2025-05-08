@@ -15,6 +15,8 @@ This document contains a list of Whitelisted Gangs and their colors for easy ref
 - `#7F00FF` - **Cali Cartel**
 - `#00FF00` - **DDOS Families**
 - `#C0C0C0` - **Madrazo Cartel**
+- `#A020F0` - **East Side Ballas**
+- `#F5F5DC` - **Saints**
 
 ## Peview
 
@@ -26,6 +28,7 @@ This document contains a list of Whitelisted Gangs and their colors for easy ref
 | Los Santos Vagos    | `#FFFF00`| ![#FFFF00](https://www.colorhexa.com/FFFF00.png) | White Cartel| `#FFFFFF`  | ![#FFFFFF](https://www.colorhexa.com/FFFFFF.png) |
 | Night Shade Rivals  | `#00008B`| ![#00008B](https://www.colorhexa.com/00008B.png) | Cali Cartel | `#7F00FF`  | ![#7F00FF](https://www.colorhexa.com/7F00FF.png) |
 | DDOS Families       | `#00FF00`| ![#00FF00](https://www.colorhexa.com/00FF00.png) | Madrazo Cartel | `#C0C0C0`  | ![#C0C0C0](https://www.colorhexa.com/C0C0C0.png) |
+| East Side Ballas       | `#A020F0`| ![#00FF00](https://www.colorhexa.com/A020F0.png) | Saints | `#F5F5DC`  | ![#C0C0C0](https://www.colorhexa.com/F5F5DC.png) |
 
 ### Usage
 - This table can be used as a reference for design and branding.
