@@ -145,10 +145,10 @@
 
     {	
 		"title": "8. Pillbox Hill",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Sons of Legacy",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "900C3F",
+		"fillcolor": "900C3F",
 		"latlngarray": [
 			{"lat": -68.907, "lng": -9.085},
 			{"lat": -68.905, "lng": -25.248},
@@ -246,10 +246,10 @@
 
     {	
 		"title": "14. West Vinewood",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Cali Cartel",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "7F00FF",
+		"fillcolor": "7F00FF",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -450,10 +450,10 @@
 
     {	
 		"title": "20. Harmony",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: East Side Ballas",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
 		"latlngarray": [
 			{"lat": 21.500, "lng": -10.250},
 			{"lat": 21.500, "lng": 22.500},
@@ -465,10 +465,10 @@
 	
     {	
 		"title": "21. Sandy Shores",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Blood Line",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 47.476, "lng": 55.025},
 			{"lat": 47.476, "lng": 66.426},
@@ -505,10 +505,10 @@
 
     {	
 		"title": "23. Grapeseed",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Blood Line",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -634,10 +634,10 @@
 
 	{
 		"title": "28. Davis Quartz",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: East Side Ballas",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "A020F0",
+		"fillcolor": "A020F0",
 		"latlngarray": [
 			{"lat": 24.474, "lng": 57.786},
 			{"lat": 12.455, "lng": 57.786},
@@ -648,10 +648,10 @@
 
 	{
 		"title": "29. Eclipse Boulevard",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Saints",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "F5F5DC",
+		"fillcolor": "F5F5DC",
 		"latlngarray": [
 			{"lat": -55.704, "lng": -60.280},
 			{"lat": -54.808, "lng": -61.445},
