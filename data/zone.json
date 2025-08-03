@@ -1,10 +1,10 @@
 [
     {  
 		"title": "1. Elysian Island",
-		"notes": "Gang: Cali Cartel",
+		"notes": "Gang: Unclaimed",
 		"order": 0,
-		"strokecolor": "7F00FF",
-		"fillcolor": "7F00FF",
+		"strokecolor": "808080",
+		"fillcolor": "808080",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
 			{"lat": -76.962, "lng": -22.957},
