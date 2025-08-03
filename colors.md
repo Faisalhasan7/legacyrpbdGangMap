@@ -17,6 +17,10 @@ This document contains a list of Whitelisted Gangs and their colors for easy ref
 - `#C0C0C0` - **Madrazo Cartel**
 - `#A020F0` - **East Side Ballas**
 - `#F5F5DC` - **Saints**
+- `#010101` - **Serpents**
+- `#A52A2A` - **Narcos**
+- `#008080` - **ENVY**
+- `#008000` - **The Families**
 
 ## Peview
 
