@@ -1,5 +1,4 @@
 [
-			{"lat": 39.885, "lng": -10.036},
 	
 	{
 		"title": "Serpents - Hood",
@@ -34,6 +33,7 @@
 			{"lat": -74.643, "lng": -8.682},
 			{"lat": -74.710, "lng": -8.407}
 		],
+
 		"media": {
 			"type": "image",
 			"url": "",
@@ -82,9 +82,10 @@
 			{"lat": -52.906, "lng": -57.305},
 			{"lat": -52.899, "lng": -56.932}
 		],
+
 		"media": {
 			"type": "image",
-			"url": "https://files.catbox.moe/aufm5y.png",
+			"url": "",
 			"alt": "White Cartel"
 		}
 	},
@@ -128,9 +129,10 @@
 			{"lat": -60.914, "lng": 23.663},
 			{"lat": -60.925, "lng": 23.828}
 		],
+
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/PJqWBChP/Gang-Photo-1.png",
+			"url": "",
 			"alt": "Envy"
 		}
 	},
@@ -184,9 +186,10 @@
 			{"lat": -59.332, "lng": 15.314},
 			{"lat": -59.416, "lng": 15.743}
 		],
+
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/3RGJt5p5/image-4.png",
+			"url": "",
 			"alt": "The Bloodline"
 		}
 	},
@@ -242,9 +245,10 @@
 			{"lat": 75.576, "lng": -25.048},
 			{"lat": 75.682, "lng": -25.443}
 		],
+
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/2SHYY4Tp/Picsart-25-03-19-18-57-15-488.webp",
+			"url": "",
 			"alt": "Sons of Legacy"
 		}
 	},
@@ -270,13 +274,12 @@
 			{"lat": -57.184, "lng": -61.042},
 			{"lat": -56.873, "lng": -60.800}
 		],
+
 		"media": {
 			"type": "image",
-			"url": "https://media.discordapp.net/attachments/1280806843408449537/1396468483700690955/image.png",
+			"url": "",
 			"alt": "Sons of Legacy"
 		}
 	}
-
 	
-
 ]
