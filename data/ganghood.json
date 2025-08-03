@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Calo Cartels - Hood",
+		"title": "Cali Cartels - Hood",
 		"notes": "CC",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
@@ -17,14 +17,14 @@
 
 		"media": {
 			"type": "image",
-			"url": "",
+			"url": "https://i.postimg.cc/PJqWBChP/Gang-Photo-1.png",
 			"alt": "CC"
 		}
 	},
 	
 	{
 		"title": "Bloodline - Hood",
-		"notes": "",
+		"notes": "BL",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
@@ -74,7 +74,7 @@
 
 		"media": {
 			"type": "image",
-			"url": "",
+			"url": "https://i.postimg.cc/81CBYwWs/Gang-Photo-Bloodline.png",
 			"alt": "Bloodline"
 		}
 	},
@@ -82,7 +82,7 @@
 	{
 		"title": "The Families",
 		"notes": "Families - Hood",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "00FF00",
 		"fillcolor": "000000",
@@ -108,7 +108,13 @@
 			{"lat": -73.436, "lng": -20.433},
 			{"lat": -73.644, "lng": -20.378},
 			{"lat": -73.832, "lng": -20.532}
-		]
+		],
+
+		"media": {
+			"type": "image",
+			"url": "https://i.postimg.cc/y6nGNrnm/image.webp",
+			"alt": "Families"
+		}
 	},
 	
 	{
@@ -155,7 +161,7 @@
 
 		"media": {
 			"type": "image",
-			"url": "",
+			"url": "https://i.postimg.cc/D0W1nZBY/aufm5y.png",
 			"alt": "White Cartel"
 		}
 	},
@@ -204,7 +210,7 @@
 	{
 		"title": "Narcos - Hood",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/",
+		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
 		"fillcolor": "A52A2A",
@@ -224,15 +230,15 @@
 
 		"media": {
 			"type": "image",
-			"url": "",
-			"alt": ""
+			"url": "https://i.postimg.cc/nVsdHcjJ/narcos.png",
+			"alt": "Narcos"
 		}
 	},
 	
 	{
 		"title": "Sons of Legacy - Hood",
-		"notes": "<edit this>",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"notes": "SOL",
+		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
 		"fillcolor": "900C3F",
@@ -282,7 +288,7 @@
 
 		"media": {
 			"type": "image",
-			"url": "",
+			"url": "https://i.postimg.cc/9F5BCPHd/SOL.png",
 			"alt": "Sons of Legacy"
 		}
 	},
