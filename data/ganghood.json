@@ -57,8 +57,8 @@
 	},
 	
 	{
-		"title": "Saints - Hood",
-		"notes": "The Saints",
+		"title": "Serpents - Hood",
+		"notes": "",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
@@ -92,7 +92,7 @@
 		"media": {
 			"type": "image",
 			"url": "",
-			"alt": "Saints"
+			"alt": "Serpents"
 		}
 	},
 	
@@ -139,18 +139,18 @@
 		],
 		"media": {
 			"type": "image",
-			"url": "https://i.postimg.cc/fRStSTPr/white-cartel.webp",
+			"url": "https://files.catbox.moe/aufm5y.png",
 			"alt": "White Cartel"
 		}
 	},
 
 	{
-		"title": "CC - Hood",
-		"notes": "The Cali Cartles",
+		"title": "Envy - Hood",
+		"notes": "",
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "A020F0",
+		"fillcolor": "008080",
 		"latlngarray": [
 			{"lat": -60.946, "lng": 23.883},
 			{"lat": -60.967, "lng": 24.355},
@@ -450,6 +450,32 @@
 		"media": {
 			"type": "image",
 			"url": "https://i.postimg.cc/2SHYY4Tp/Picsart-25-03-19-18-57-15-488.webp",
+			"alt": "Sons of Legacy"
+		}
+	},
+	{
+		"title": "Narcos - Hood",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "A52A2A",
+		"latlngarray": [
+			{"lat": -56.487, "lng": -60.064},
+			{"lat": -56.963, "lng": -59.240},
+			{"lat": -57.142, "lng": -59.163},
+			{"lat": -57.303, "lng": -58.943},
+			{"lat": -57.427, "lng": -58.658},
+			{"lat": -58.424, "lng": -60.042},
+			{"lat": -57.944, "lng": -61.053},
+			{"lat": -57.716, "lng": -61.228},
+			{"lat": -57.462, "lng": -61.163},
+			{"lat": -57.184, "lng": -61.042},
+			{"lat": -56.873, "lng": -60.800}
+		],
+		"media": {
+			"type": "image",
+			"url": "https://media.discordapp.net/attachments/1280806843408449537/1396468483700690955/image.png",
 			"alt": "Sons of Legacy"
 		}
 	}
