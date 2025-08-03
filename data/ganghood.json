@@ -103,10 +103,6 @@
 			{"lat": -71.754, "lng": -22.333},
 			{"lat": -71.744, "lng": -21.960},
 			{"lat": -72.240, "lng": -20.114},
-			{"lat": -72.526, "lng": -18.906},
-			{"lat": -73.065, "lng": -20.246},
-			{"lat": -73.436, "lng": -20.433},
-			{"lat": -73.644, "lng": -20.378},
 			{"lat": -73.832, "lng": -20.532}
 		],
 
@@ -172,7 +168,7 @@
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "F5F5DC",
+		"fillcolor": "D2B48C",
 		"latlngarray": [
 			{"lat": -74.710, "lng": -8.396},
 			{"lat": -74.423, "lng": -7.276},
@@ -213,7 +209,7 @@
 		"wiki_link": "https://legacyrpbd.com/",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "A52A2A",
+		"fillcolor": "964B00",
 		"latlngarray": [
 			{"lat": -56.487, "lng": -60.064},
 			{"lat": -56.963, "lng": -59.240},
