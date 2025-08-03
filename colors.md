@@ -31,7 +31,7 @@ This document contains a list of Whitelisted Gangs and their colors for easy ref
 | Blood Line | `#FF0000` | ![#FF0000](https://www.colorhexa.com/FF0000.png) | Los Santos Vagos | `#FFFF00`| ![#FFFF00](https://www.colorhexa.com/FFFF00.png) | White Cartel| `#FFFFFF` | ![#FFFFFF](https://www.colorhexa.com/FFFFFF.png) |
 | Night Shade Rivals | `#00008B`| ![#00008B](https://www.colorhexa.com/00008B.png) | Cali Cartel | `#7F00FF` | ![#7F00FF](https://www.colorhexa.com/7F00FF.png) | DDOS Families | `#00FF00`| ![#00FF00](https://www.colorhexa.com/00FF00.png) |
 | Madrazo Cartel | `#C0C0C0` | ![#C0C0C0](https://www.colorhexa.com/C0C0C0.png) | East Side Ballas | `#A020F0`| ![#00FF00](https://www.colorhexa.com/A020F0.png) | Saints | `#F5F5DC` | ![#C0C0C0](https://www.colorhexa.com/F5F5DC.png) |
-| The Families | `#D2B48C` | ![#D2B48C](https://www.colorhexa.com/D2B48C.png) | Serpents | `#D2B48C`| ![#A52A2A](https://www.colorhexa.com/D2B48C.png) | Narcos | `#964B00` | ![#964B00](https://www.colorhexa.com/964B00.png) |
+| The Families | `#00FF00` | ![#00FF00](https://www.colorhexa.com/00FF00.png) | Serpents | `#D2B48C`| ![#A52A2A](https://www.colorhexa.com/D2B48C.png) | Narcos | `#964B00` | ![#964B00](https://www.colorhexa.com/964B00.png) |
 | Envy | `#008080` | ![#008080](https://www.colorhexa.com/008080.png) | N/A | `#008000`| ![#ffffff](https://www.colorhexa.com/ffffff.png) | N/A | `#ffffff` | ![#ffffff](https://www.colorhexa.com/ffffff.png) |
 
 
