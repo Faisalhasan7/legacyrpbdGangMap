@@ -1,60 +1,5 @@
 [
-
-	{
-		"title": "The Lost MC (TLMC)",
-		"notes": "Bike on my Blood",
-		"wiki_link": "https://legacyrpbd.com/",
-		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "666362",
-		"latlngarray": [
-			{"lat": 37.667, "lng": -11.849},
-			{"lat": 37.937, "lng": -11.245},
-			{"lat": 38.343, "lng": -10.673},
-			{"lat": 38.687, "lng": -10.322},
-			{"lat": 39.131, "lng": -10.014},
-			{"lat": 39.607, "lng": -9.871},
 			{"lat": 39.885, "lng": -10.036},
-			{"lat": 40.423, "lng": -9.937},
-			{"lat": 40.915, "lng": -10.058},
-			{"lat": 41.229, "lng": -10.311},
-			{"lat": 41.830, "lng": -10.487},
-			{"lat": 42.221, "lng": -10.651},
-			{"lat": 42.457, "lng": -11.069},
-			{"lat": 42.530, "lng": -11.596},
-			{"lat": 42.570, "lng": -12.003},
-			{"lat": 42.885, "lng": -12.684},
-			{"lat": 42.869, "lng": -13.068},
-			{"lat": 42.885, "lng": -13.497},
-			{"lat": 42.627, "lng": -14.316},
-			{"lat": 42.278, "lng": -14.755},
-			{"lat": 42.221, "lng": -14.865},
-			{"lat": 41.846, "lng": -15.832},
-			{"lat": 41.468, "lng": -16.216},
-			{"lat": 41.254, "lng": -16.249},
-			{"lat": 40.873, "lng": -16.183},
-			{"lat": 40.673, "lng": -16.096},
-			{"lat": 40.389, "lng": -16.008},
-			{"lat": 40.071, "lng": -15.865},
-			{"lat": 39.717, "lng": -15.722},
-			{"lat": 39.454, "lng": -15.634},
-			{"lat": 39.165, "lng": -15.469},
-			{"lat": 38.960, "lng": -15.327},
-			{"lat": 38.729, "lng": -15.096},
-			{"lat": 38.489, "lng": -14.733},
-			{"lat": 38.394, "lng": -14.514},
-			{"lat": 38.317, "lng": -14.041},
-			{"lat": 38.179, "lng": -13.283},
-			{"lat": 38.092, "lng": -12.734},
-			{"lat": 38.066, "lng": -12.481},
-			{"lat": 37.919, "lng": -12.173}
-		],
-		"media": {
-			"type": "image",
-			"url": "https://i.postimg.cc/WbwWQmKL/2-1.webp",
-			"alt": "The Lost MC"
-		}	
-	},
 	
 	{
 		"title": "Serpents - Hood",
@@ -186,81 +131,7 @@
 		"media": {
 			"type": "image",
 			"url": "https://i.postimg.cc/PJqWBChP/Gang-Photo-1.png",
-			"alt": "The Cali Cartles"
-		}
-	},
-
-	{
-		"title": "Vagos - Hood",
-		"notes": "Los Santos Vagos ",
-		"wiki_link": "https://legacyrpbd.com/",
-		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "FFFF00",
-		"latlngarray": [
-			{"lat": -76.604, "lng": -7.722},
-			{"lat": -76.186, "lng": -6.162},
-			{"lat": -76.109, "lng": -5.910},
-			{"lat": -75.735, "lng": -4.591},
-			{"lat": -76.186, "lng": -2.823},
-			{"lat": -76.235, "lng": -2.559},
-			{"lat": -76.543, "lng": -1.306},
-			{"lat": -76.563, "lng": -1.471},
-			{"lat": -76.612, "lng": -1.713},
-			{"lat": -76.781, "lng": -2.284},
-			{"lat": -76.866, "lng": -2.581},
-			{"lat": -77.035, "lng": -3.240},
-			{"lat": -77.092, "lng": -3.581},
-			{"lat": -77.160, "lng": -3.965},
-			{"lat": -77.175, "lng": -4.438},
-			{"lat": -77.155, "lng": -4.965},
-			{"lat": -77.087, "lng": -5.492},
-			{"lat": -76.998, "lng": -5.899},
-			{"lat": -76.826, "lng": -6.734},
-			{"lat": -76.685, "lng": -7.437},
-			{"lat": -76.617, "lng": -7.744}
-		],
-		"media": {
-			"type": "image",
-			"url": "https://i.postimg.cc/DfqBXd7J/me-1.jpg",
-			"alt": "Los Santo Vagos"
-		}
-
-	},
-
-	{
-		"title": "East Side Ballas - Hood",
-		"notes": "East Side Ballas",
-		"wiki_link": "https://legacyrpbd.com/",
-		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "A020F0",
-		"latlngarray": [
-			{"lat": -74.858, "lng": -15.712},
-			{"lat": -74.618, "lng": -14.932},
-			{"lat": -75.143, "lng": -12.526},
-			{"lat": -75.216, "lng": -12.031},
-			{"lat": -75.485, "lng": -10.131},
-			{"lat": -75.679, "lng": -10.592},
-			{"lat": -75.804, "lng": -11.142},
-			{"lat": -75.882, "lng": -11.339},
-			{"lat": -75.962, "lng": -11.834},
-			{"lat": -76.073, "lng": -12.383},
-			{"lat": -75.986, "lng": -12.866},
-			{"lat": -75.839, "lng": -13.484},
-			{"lat": -75.685, "lng": -13.924},
-			{"lat": -75.576, "lng": -14.418},
-			{"lat": -75.458, "lng": -15.022},
-			{"lat": -75.355, "lng": -15.341},
-			{"lat": -75.255, "lng": -15.780},
-			{"lat": -75.157, "lng": -16.198},
-			{"lat": -75.086, "lng": -16.539},
-			{"lat": -74.924, "lng": -16.022}
-		],
-		"media": {
-			"type": "image",
-			"url": "",
-			"alt": "East Side Ballas"
+			"alt": "Envy"
 		}
 	},
 	
@@ -320,83 +191,7 @@
 		}
 	},
 
-	{
-		"title": "DDos Families - Hood",
-		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
-		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "00ff00",
-		"latlngarray": [
-			{"lat": -73.403, "lng": -20.750},
-			{"lat": -73.806, "lng": -20.552},
-			{"lat": -73.865, "lng": -20.541},
-			{"lat": -74.092, "lng": -21.486},
-			{"lat": -73.932, "lng": -22.046},
-			{"lat": -73.837, "lng": -22.508},
-			{"lat": -73.742, "lng": -23.024},
-			{"lat": -73.584, "lng": -23.892},
-			{"lat": -73.485, "lng": -24.419},
-			{"lat": -73.189, "lng": -23.903},
-			{"lat": -72.997, "lng": -23.441},
-			{"lat": -72.692, "lng": -22.903},
-			{"lat": -72.607, "lng": -22.574},
-			{"lat": -72.673, "lng": -22.090},
-			{"lat": -72.758, "lng": -21.695},
-			{"lat": -72.949, "lng": -21.980},
-			{"lat": -73.145, "lng": -21.996},
-			{"lat": -73.268, "lng": -22.051},
-			{"lat": -73.385, "lng": -22.018},
-			{"lat": -73.388, "lng": -21.358},
-			{"lat": -73.385, "lng": -20.853}
-		],
-		"media": {
-			"type": "image",
-			"url": "https://i.postimg.cc/qqZqg9xr/ddos-loading-sceen-2.webp",
-			"alt": "DDos Families"
-		}
-	},
 
-	{
-		"title": "Madrazo Cartel - Hood",
-		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
-		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "c6c3b5",
-		"latlngarray": [
-			{"lat": -27.178, "lng": 22.814},
-			{"lat": -27.217, "lng": 24.352},
-			{"lat": -27.256, "lng": 26.154},
-			{"lat": -27.119, "lng": 28.066},
-			{"lat": -27.529, "lng": 28.747},
-			{"lat": -28.286, "lng": 28.944},
-			{"lat": -29.000, "lng": 28.944},
-			{"lat": -29.689, "lng": 29.120},
-			{"lat": -30.222, "lng": 29.098},
-			{"lat": -30.993, "lng": 29.084},
-			{"lat": -31.247, "lng": 28.985},
-			{"lat": -31.341, "lng": 28.589},
-			{"lat": -31.369, "lng": 27.480},
-			{"lat": -31.331, "lng": 26.436},
-			{"lat": -31.360, "lng": 25.766},
-			{"lat": -31.331, "lng": 25.041},
-			{"lat": -31.360, "lng": 23.997},
-			{"lat": -31.369, "lng": 23.272},
-			{"lat": -31.343, "lng": 23.041},
-			{"lat": -30.561, "lng": 23.041},
-			{"lat": -29.887, "lng": 22.953},
-			{"lat": -29.160, "lng": 22.876},
-			{"lat": -28.448, "lng": 22.887},
-			{"lat": -27.779, "lng": 22.854},
-			{"lat": -27.302, "lng": 22.854}
-		],
-		"media": {
-			"type": "image",
-			"url": "",
-			"alt": "Madrazo Cartel"
-		}
-	},
 	{
 		"title": "Sons of Legacy - Hood",
 		"notes": "<edit this>",
@@ -453,6 +248,8 @@
 			"alt": "Sons of Legacy"
 		}
 	},
+
+	
 	{
 		"title": "Narcos - Hood",
 		"notes": "",
